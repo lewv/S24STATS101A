@@ -1,0 +1,783 @@
+Age,Height,Weight,Length_of_Stay,Alvarado_Score,Paedriatic_Appendicitis_Score,Body_Temperature,WBC_Count,Neutrophil_Percentage,RBC_Count,Hemoglobin,RDW,Thrombocyte_Count,CRP,US_Number,Sex,Management,Severity,Diagnosis_Presumptive,Diagnosis
+12.68,148,37,3,6,3,37,7.7,68.2,5.27,14.8,12.2,254,0,882,female,conservative,uncomplicated,appendicitis,appendicitis
+14.1,147,69.5,2,5,4,36.9,8.1,64.8,5.26,15.7,12.7,151,3,883,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.14,163,62,4,5,3,36.6,13.2,74.8,3.98,11.4,12.2,300,3,884,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.37,165,56,3,3,6,36,11.4,63,4.64,13.6,13.2,258,0,886,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.08,163,45,3,5,6,36.9,8.1,44,4.44,12.6,13.6,311,0,887,female,conservative,uncomplicated,appendicitis,appendicitis
+11.05,121,45,3,4,7,36.9,9.5,71.4,4.96,12.5,13.3,249,63,888,male,conservative,uncomplicated,appendicitis,no appendicitis
+8.98,140,38.5,3,5,6,36.7,10,69.1,4.77,12.7,12.6,337,9,889,female,conservative,uncomplicated,appendicitis,no appendicitis
+7.06,NA,21.5,2,7,3,36.8,8,79.6,4.89,12,13.9,412,0,890,female,conservative,uncomplicated,appendicitis,no appendicitis
+7.9,131,26.7,3,3,6,37.3,20.9,76,4.61,13.4,12,350,20,891,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.34,174,45.5,3,6,4,37.1,5.8,47.2,4.78,12.9,12.6,220,0,893,male,conservative,uncomplicated,appendicitis,appendicitis
+11.87,147,34,2,2,9,38,17.1,80.5,4.75,13.2,12.1,319,17,894,male,conservative,uncomplicated,appendicitis,appendicitis
+16.28,174,62.2,3,NA,NA,36.6,8.2,NA,4.14,11.7,12.7,225,1,895,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.4,141,33,2,1,7,37.4,16.1,86.3,5.06,13.7,12.9,232,6,896,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.48,131,38,3,5,4,36.5,6,49.9,4.33,12.5,12.9,250,0,897,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.98,164,53,4,2,8,36.5,17,91,4.1,12.2,11.9,245,5,900,female,conservative,uncomplicated,appendicitis,appendicitis
+14.93,165,68,3,7,3,36.2,7.3,64.4,4.24,13.6,11.7,245,0,903,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.39,153,40.7,3,4,6,38.1,6.8,73.7,5.19,14.1,12.4,267,7,904,female,conservative,uncomplicated,appendicitis,appendicitis
+17.24,163,88,3,7,5,36.1,6.5,57.9,4.93,14.2,12.8,271,4,905,female,conservative,uncomplicated,appendicitis,appendicitis
+10.58,152,43,3,2,6,36,13.4,84.1,4.96,13.6,12.4,250,1,909,female,conservative,uncomplicated,appendicitis,appendicitis
+14.74,155,55,4,7,3,36.3,8,69.3,4.94,14,12.1,191,1,910,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.66,174,65,5,4,7,36.6,6.6,53.3,5.31,15.8,11.9,254,3,911,male,conservative,uncomplicated,appendicitis,appendicitis
+11.18,151,37.9,3,2,7,38.4,18,85,4.43,13.1,12.3,298,31,913,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.6,150,47,3,9,1,36.6,9,70.2,4.45,12.4,12.1,254,0,914,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.89,149,40,4,NA,NA,37,10.6,NA,4.79,13.5,12.9,330,77,916,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.92,180,71,2,8,2,37,5.2,62,4.69,14.3,11.7,197,1,917,male,conservative,uncomplicated,appendicitis,no appendicitis
+13.26,160,62,2,8,4,36,7.4,53,4.48,12.9,12.3,266,1,918,female,conservative,uncomplicated,appendicitis,appendicitis
+8.69,139,31,4,2,8,37.3,10.7,56,4.15,12.2,11.8,284,89,921,female,conservative,uncomplicated,appendicitis,appendicitis
+17.82,NA,52,2,6,6,37,9.4,53.9,4.48,14.2,12.3,241,3,922,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.51,150,40,3,3,8,36.3,16.1,84.5,4.55,13.2,11.5,332,0,924,female,conservative,uncomplicated,appendicitis,appendicitis
+13.54,166,48,3,5,6,36.8,6.4,49.8,4.51,12.5,11.9,286,0,925,female,conservative,uncomplicated,appendicitis,appendicitis
+15.7,175,78,3,8,2,37,6.9,57,5.3,15.8,12.2,223,15,926,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.55,141,36,3,4,7,37.4,11,73.2,4.67,13.4,13.4,279,40,927,male,conservative,uncomplicated,appendicitis,appendicitis
+10.36,138,31,3,3,6,38.3,16.7,73.5,4.83,13.3,11.8,239,24,928,female,conservative,uncomplicated,appendicitis,appendicitis
+5.33,127,28,4,1,8,38.3,33.6,83.6,4.3,11.9,12,393,72,929,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.4,NA,45,3,0,8,38.8,11.3,91,4.56,13.2,12.6,268,35,930,male,conservative,uncomplicated,appendicitis,appendicitis
+7.84,136,43,4,2,7,37.9,18.8,80,4.35,11.1,12.9,285,136,931,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.71,NA,19.5,2,1,8,38.4,11.6,90.6,4.34,11.7,12.4,126,4,933,male,conservative,uncomplicated,appendicitis,appendicitis
+14.15,NA,50,3,2,7,36,11.9,78.3,4.33,12.6,13.1,189,0,934,male,conservative,uncomplicated,appendicitis,no appendicitis
+7.9,132.5,26.5,3,6,4,37.1,6.5,29.7,4.7,13,11.7,246,0,935,female,conservative,uncomplicated,appendicitis,appendicitis
+13.38,163,47,3,1,8,37.7,12.3,79.6,4.42,12.9,12.6,305,18,936,male,conservative,uncomplicated,appendicitis,appendicitis
+15.9,NA,54,3,6,4,37,5.4,54,4.91,14.6,13.6,225,4,938,female,conservative,uncomplicated,appendicitis,appendicitis
+15.89,175,60,2,4,5,36.3,11.8,77.5,4.5,12.1,14.2,284,42,939,female,conservative,uncomplicated,appendicitis,appendicitis
+10.13,132,30,3,2,9,36.5,13.7,81.3,5.06,11.4,15.1,312,0,940,male,conservative,uncomplicated,appendicitis,no appendicitis
+3.79,106,17,3,5,6,36.9,16,91.3,4.46,11.8,12.6,351,2,942,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.49,129,27,3,7,3,36.6,6.2,36.7,4.43,12,12.3,263,0,943,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.83,178,56,3,4,7,37.2,5.5,66.9,4.77,14.8,13.6,199,0,945,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.16,160,63,3,5,4,37.4,11.5,74.3,4.81,13.9,12.1,233,22,946,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.38,141,44.2,3,6,4,36.6,6.3,42.2,4.36,12.5,11.7,339,1,947,male,conservative,uncomplicated,appendicitis,appendicitis
+13.57,153,51,3,5,6,36.6,8.4,53.8,4.4,12.7,12.4,289,0,948,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.72,NA,52,3,6,3,36.8,11.3,68.9,4.64,12.9,11.8,408,2,949,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.06,157,43,3,8,4,36.2,8.7,48,4.98,14,12.1,316,0,950,female,conservative,uncomplicated,appendicitis,appendicitis
+16.8,162,97,2,3,6,37.6,10.9,69.6,4.69,13,12.1,265,12,951,female,conservative,uncomplicated,appendicitis,no appendicitis
+3.99,101.5,14.5,2,3,6,37.4,18.4,71.9,4.23,11.9,12.7,337,42,952,male,conservative,uncomplicated,"Appendizitis, Lymphadenitis mesenterialis",no appendicitis
+7.2,125,22,3,3,6,36.6,16.5,83.1,5.07,14.3,12.6,313,17,953,female,conservative,uncomplicated,appendicitis,appendicitis
+10.006,155,58.1,2,3,7,38,8.3,75.5,4.93,13.7,12,296,5,954,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.18,144,30,2,3,8,37,14.9,93.4,4.57,14.2,12.1,242,12,955,male,conservative,uncomplicated,appendicitis,appendicitis
+11.88,154,48.5,2,5,3,36.8,11,73.7,4.4,13.2,12.8,262,56,959,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.58,140,34,3,5,4,37.8,11.1,71.7,5.08,13.1,12.6,395,47,961,male,conservative,uncomplicated,appendicitis,no appendicitis
+6.9,115,16.7,3,6,3,37,10,83.5,4.5,12.6,11.9,359,0,962,female,conservative,uncomplicated,appendicitis,no appendicitis
+17.79,173,55,2,5,6,37,6.8,77.9,5.03,14.6,12,171,35,963,male,conservative,uncomplicated,appendicitis,no appendicitis
+8.5,140,38,3,2,7,37.6,12.2,83.3,5.05,13.7,12,286,4,965,male,conservative,uncomplicated,appendicitis,appendicitis
+17.66,167,73,3,7,3,36.7,6.7,47.4,4.4,13.3,12.1,292,1,967,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.05,145,69.8,3,5,3,36.6,12,50.5,4.54,13.2,12.2,531,5,968,male,conservative,uncomplicated,appendicitis,no appendicitis
+4.39,106,22,2,5,4,36.9,16.79,77.7,4.65,12.2,12.3,314,6,971,female,conservative,uncomplicated,NA,no appendicitis
+16.31,183,103,3,4,7,36.9,5.8,54.4,5.02,14.8,11.6,341,1,973,male,conservative,uncomplicated,appendicitis,appendicitis
+15.83,153,59,3,3,6,36.7,12.8,77.9,4.33,10.1,15.9,310,83,974,female,conservative,uncomplicated,appendicitis,appendicitis
+14.66,169,85,3,6,4,36.4,8.5,51.5,4.55,12.9,12.5,261,1,976,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.51,153,33,3,6,6,37.1,8,45.4,5.03,14.6,11.9,265,0,977,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.57,150,56,2,6,5,36.1,7.4,60.3,4.77,13.2,13.2,330,1,978,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.27,172,58,3,6,3,36.6,14.7,72.2,4.72,13.7,11.9,318,9,981,female,conservative,uncomplicated,appendicitis,appendicitis
+9.1,NA,25,3,3,5,37.6,16.4,88.6,4.8,13.5,11.8,368,6,982,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.3,152,37,3,8,2,36.7,8.6,66.1,5.44,14.4,12.5,263,0,983,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.47,138,40,2,3,6,36.9,17.7,89.6,6.44,15,15,317,35,986,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.66,164,54,2,7,3,37,6,53.8,4.25,12.5,13.9,250,0,988,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.7,165,46.5,3,6,4,36.7,8.4,62.7,4.93,14.6,12.3,264,6,989,female,conservative,uncomplicated,appendicitis,appendicitis
+10.49,140,31,3,2,8,37.9,15.9,88,4.35,13.3,11.2,269,2,991,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.68,NA,39,3,6,5,37.1,7.3,59.7,4.34,12.7,12.4,218,0,992,female,conservative,uncomplicated,appendicitis,appendicitis
+13.98,172,60.9,3,5,4,36.7,8.36,79.8,4.84,14.9,14.6,247,30.4,733,male,conservative,uncomplicated,appendicitis,appendicitis
+17.79,164,48,4,4,5,37.5,15.5,81.8,4.79,13.9,12.2,176,5,735,female,conservative,uncomplicated,appendicitis,appendicitis
+9.39,139.8,30,3,7,5,36.9,6,51.2,4.33,12.4,12.6,190,24,736,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.83,168,54,2,8,2,37.1,8.1,60.9,4.66,13.2,12.9,306,0,737,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.73,132,26,3,6,3,36.6,8.1,62,4.47,12.9,11.8,210,0,738,female,conservative,uncomplicated,appendicitis,appendicitis
+8.16,140,33,2,5,4,36.2,21.7,77.1,4.74,13,12.7,385,0,739,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.23,NA,54,4,5,4,36.5,6.6,50.4,4.73,14.3,12.3,228,0,740,male,conservative,uncomplicated,appendicitis,appendicitis
+15.09,192,69,2,6,3,37.1,8.7,76.8,4.98,13.5,12.7,188,33,743,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.1,160,49,2,7,3,35.6,8.1,57.7,4.73,13.1,12.6,277,2,745,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.37,181,60,2,2,7,36.9,19.2,92.3,5.16,15.6,12.2,353,1,746,male,conservative,uncomplicated,appendicitis,appendicitis
+9.18,145,43,2,3,5,36.8,17.7,NA,5.02,12.9,13.6,265,21,748,male,conservative,uncomplicated,appendicitis,appendicitis
+10.59,140,33,3,4,6,37.3,10.1,69.5,4.65,12.1,12.7,366,32,749,male,conservative,uncomplicated,appendicitis,appendicitis
+16.29,175,57,3,3,6,36.7,13.8,82.5,4.49,12.7,12.1,236,0,750,female,conservative,uncomplicated,appendicitis,appendicitis
+8.83,NA,33.8,3,2,8,37.3,12,81.1,5.26,13.4,14.6,267,7,751,male,conservative,uncomplicated,appendicitis,appendicitis
+9.49,136,27,3,1,9,37.2,15.6,82.1,4.3,11.8,12.6,196,3,752,male,conservative,uncomplicated,appendicitis,appendicitis
+6.29,120,20,2,0,10,38.3,19.1,79.7,4.9,12.7,12.2,221,1,753,male,conservative,uncomplicated,appendicitis,no appendicitis
+6.76,122,22.9,3,3,8,37.4,19.7,75.5,4.77,13.4,12.2,330,1,754,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.78,145,36,2,4,5,37.4,5.9,54.6,4.68,13.1,12,287,0,755,female,conservative,uncomplicated,appendicitis,no appendicitis
+17.72,178,72,3,2,7,36.5,14.7,80.9,5.99,15.6,13.7,225,0,756,male,conservative,uncomplicated,appendicitis,appendicitis
+9.53,132,29,3,1,8,37.7,17.6,81,4.67,12.5,12.6,339,0,757,male,conservative,uncomplicated,appendicitis,no appendicitis
+6.39,110,18.5,3,3,6,37,15.5,89.6,4.5,12.9,12.1,304,3,759,male,conservative,uncomplicated,appendicitis,appendicitis
+6.64,125,24.5,3,5,4,37.9,16.3,80.8,4.98,13.5,12.1,328,26,760,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.22,142,30,3,4,6,36.8,15.1,86.2,4.26,12.1,12.3,314,0,761,male,conservative,uncomplicated,appendicitis,appendicitis
+11.96,144,33,2,7,5,37.3,6.7,48.4,4.23,11.7,12.3,199,1,765,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.95,162,49,3,3,6,36,16.7,90,4.84,12.7,12.4,236,0,769,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.98,159,51,4,3,5,37.2,13.3,74.5,4.96,13.8,12.5,292,47,771,female,conservative,uncomplicated,appendicitis,appendicitis
+14.71,174,56,2,2,7,39.8,10.1,93.7,4.11,12.3,12.4,198,15,772,female,conservative,uncomplicated,appendicitis,appendicitis
+10.64,146,49.5,3,6,3,36.7,10.7,66.4,4.93,13.9,12,326,1,775,male,conservative,uncomplicated,appendicitis,appendicitis
+7.3,123,23.5,3,1,7,37.4,21.1,71.8,4.64,12.9,13.4,249,1,777,female,conservative,uncomplicated,appendicitis,appendicitis
+12.97,152,44.8,3,8,2,36,6.4,41,4.01,12.3,11.6,367,0,779,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.12,166,62,2,6,4,36.4,9.8,71.4,4.62,11.6,18,451,0,780,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.6,164,48.5,3,0,8,37.6,18.7,84.3,4.76,14.4,12.4,205,22,781,male,conservative,uncomplicated,appendicitis,appendicitis
+12.62,161,54,4,6,3,36.9,9.8,43.6,4.78,13.8,12.4,253,0,782,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.27,158,50,3,5,4,36.8,8.2,45.7,4.45,12.8,12.6,250,0,786,female,conservative,uncomplicated,appendicitis,no appendicitis
+4.39,103,16,5,4,5,39,14.4,73.8,4.99,12.9,11.9,490,74,787,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.29,160,57,2,8,1,36.9,11.1,70.3,4.76,11.9,13.5,339,6,789,female,conservative,uncomplicated,appendicitis,no appendicitis
+6.27,128,26.5,1,5,5,36.9,13.1,71.3,4.65,13.2,12.2,283,5,790,male,conservative,uncomplicated,appendicitis,appendicitis
+10.98,142,26,3,4,5,37.2,13.3,77,5.18,13.8,11.9,275,24,791,female,conservative,uncomplicated,appendicitis,appendicitis
+9.44,142.5,37.8,3,1,8,37.7,21.2,85.7,4.45,13,12.6,357,10,794,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.16,167,58,3,NA,NA,37.2,9,NA,4.49,13.4,12.1,332,3,795,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.72,180,60,3,5,4,37,10.7,67.7,5.57,15.5,13.3,224,0,796,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.59,148.5,36.5,3,5,4,36.8,11.1,75.8,4.76,13.9,12.6,297,11,797,male,conservative,uncomplicated,appendicitis,appendicitis
+15.18,151,58,3,6,5,36.3,15.8,56.6,4.54,13.3,11.9,304,0,799,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.19,130,25,3,2,7,37.7,16.8,75.5,4.81,13.4,11.9,386,3,801,male,conservative,uncomplicated,appendicitis,appendicitis
+16.19,172,65,3,5,4,36.4,12.7,73.2,5.31,16.1,12.3,192,135,802,male,conservative,uncomplicated,appendicitis,appendicitis
+10.56,142.5,32,3,6,3,37.8,9.8,67.2,4.62,13.5,11.8,266,26,803,male,conservative,uncomplicated,Appendizitis/ Lymphadenitis mesenterialis,no appendicitis
+16.43,170,77,2,NA,NA,36.5,7,NA,4.33,13.3,11.9,146,0,804,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.84,160,52,3,7,3,37.3,7,69.5,3.92,11.5,11.9,199,6,805,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.67,168,49,2,7,4,36.6,5.7,52.9,4.71,13.5,12.2,214,16,806,male,conservative,uncomplicated,appendicitis,appendicitis
+14.2,170,53,2,2,8,36.5,14.4,80.8,4.98,13.7,12.8,293,32,807,male,conservative,uncomplicated,appendicitis,appendicitis
+8.09,127,25.5,2,3,6,37.2,21.09,82,5.01,13.7,NA,370,1.17,808,male,conservative,uncomplicated,appendicitis,appendicitis
+7.74,126,22.5,3,5,5,36.8,8.5,61.4,4.6,13.1,12.2,351,1,575,female,conservative,uncomplicated,appendicitis,appendicitis
+10.76,138.5,34.4,4,2,8,36.9,18.1,84.7,4.9,12.6,12.5,295,4,578,male,conservative,uncomplicated,appendicitis,appendicitis
+9.25,139,50,3,3,6,36.9,17.2,72.8,5.15,12.8,14.8,393,9,579,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.95,143.5,34.1,4,5,5,37,5.6,NA,5.07,14.4,11.9,270,8,583,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.65,172,81,2,4,7,37.1,10.8,63.8,5.01,13.8,12.6,266,16,584,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.93,137.5,35,3,7,3,36.5,6.8,51,5.13,14,13.3,338,0,585,male,conservative,uncomplicated,appendicitis,no appendicitis
+13.83,169,85.4,3,5,5,36.4,9.7,42.5,5.52,15,14.6,369,4,586,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.9,135,24.5,2,10,1,36.7,8.7,63.5,4.74,15.3,12.8,324,0,587,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.38,165,46.8,3,6,4,36.5,8.5,48.3,4.53,13.2,11.9,267,0,589,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.16,NA,23,3,NA,NA,37.8,15.5,NA,4.22,11.7,13.7,251,68,591,male,conservative,uncomplicated,appendicitis,appendicitis
+10.65,136.5,25,3,3,6,36.2,18.6,93.9,4.83,12.6,13.3,349,2,592,female,conservative,uncomplicated,appendicitis,appendicitis
+9.2,143,33.5,9,5,4,37.1,6.1,60.1,4.54,12.7,12.8,280,0,593,male,conservative,uncomplicated,appendicitis,no appendicitis
+3.16,96,13,3,4,5,38.5,15.4,NA,4.42,11.8,13.4,110,8,595,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.98,143,54,2,6,6,37,4.8,57.6,4.5,12.9,NA,224,2.1,596,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.8,152,35.8,3,5,6,37.1,8.7,74.3,5.16,14.2,12.9,272,25,597,male,conservative,uncomplicated,appendicitis,appendicitis
+15.48,169,64,5,4,5,36.9,5.8,51.3,4.02,11.7,13.9,212,22,598,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.9,153,38.5,3,6,4,37.3,8,47.1,4.84,13.5,12.6,405,0,600,female,conservative,uncomplicated,appendicitis,no appendicitis
+3.27,87.7,12.2,6,2,7,38.9,17.9,87.1,4.73,12.4,14.2,342,39,601,female,conservative,uncomplicated,appendicitis,appendicitis
+11.36,142,28,3,1,7,36.8,11.4,84.6,4.35,12.7,12.4,183,3,602,female,conservative,uncomplicated,appendicitis,appendicitis
+8.56,138,30.5,3,6,3,36.4,8.4,83.4,4.37,11.5,12.6,234,0,603,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.68,169,58,3,6,3,36.8,10.8,65.1,4.57,13.6,12.6,240,0,604,female,conservative,uncomplicated,appendicitis,appendicitis
+14.15,165,64,3,5,4,37.6,16.3,87.7,4.76,13.8,12.1,325,1,606,female,conservative,uncomplicated,appendicitis,appendicitis
+10.86,141,28,5,6,3,36.2,8.4,NA,4.51,12.9,12,273,1,607,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.9,148,51,5,NA,NA,36.2,7.9,NA,4.41,12.5,12.3,324,1,609,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.01,166,62,3,6,4,37,8,63.9,4.32,12.2,12,176,0,612,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.05,148.5,45,3,10,0,36.3,9.1,40.3,4.37,12.1,13.1,246,3,613,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.05,149,46.3,3,8,1,36,12.2,70.3,4.46,12.9,12.3,383,4,614,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.99,161,54,3,6,3,37.1,12.2,73.5,4.54,13.7,12.5,307,0,615,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.37,130.5,24,3,4,5,37.1,8.1,65.5,4.59,13.3,12.2,272,0,616,female,conservative,uncomplicated,appendicitis,no appendicitis
+7.72,129.5,33.8,3,7,4,37.2,6.7,NA,5.26,14,13,367,0,617,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.52,158,49,3,NA,NA,37.3,14.5,NA,4.31,12.7,NA,245,5,619,female,conservative,uncomplicated,appendicitis,appendicitis
+8.34,130,21.5,2,6,4,36.7,9.1,70.5,4.9,13.1,12.1,466,1,620,female,conservative,uncomplicated,appendicitis,appendicitis
+14.11,156,45,3,5,6,37.1,8.1,NA,5.05,13.3,13.2,344,1,621,female,conservative,uncomplicated,appendicitis,no appendicitis
+17.21,178,57,4,5,4,36.9,10.7,82.6,5.4,16.5,12,206,9,622,male,conservative,uncomplicated,appendicitis,appendicitis
+10.88,145.7,33,3,7,4,36.8,4.9,51.1,5.15,13.6,13.1,245,0,623,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.16,NA,75,3,4,5,37.2,5.6,NA,5.57,14.8,13,250,51,624,male,conservative,uncomplicated,appendicitis,appendicitis
+11.82,147,36,3,3,5,37.5,21.4,90,4.43,12.4,12.6,365,3,625,male,conservative,uncomplicated,appendicitis,appendicitis
+9.5,144.5,35.4,3,5,6,37.1,9.7,62.5,4.78,13.8,12,335,0,626,female,conservative,uncomplicated,appendicitis,appendicitis
+11.06,146,41,3,3,8,36.4,21.8,81.8,4.63,12.9,12.2,391,0,628,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.7,167,43.4,3,5,6,36.7,12.4,65.7,4.69,12.4,14.4,247,6,NA,male,conservative,uncomplicated,appendicitis,appendicitis
+8.67,140,25,4,5,4,36.8,6.9,55,4.31,11.5,12.4,412,4,633,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.79,160,59,3,4,7,36.3,5.1,53,5.01,13.6,14.7,173,0,635,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.75,141.5,32,3,5,6,35.9,14.8,68.4,4.56,13.6,12.3,302,17,636,male,conservative,uncomplicated,appendicitis,appendicitis
+12.7,159,69.5,3,NA,NA,36.9,9.3,NA,4.78,11.7,15.2,351,0,638,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.53,149,58,2,7,2,37.1,7.4,57.2,4.76,12.6,12,373,10,641,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.45,145.5,35.5,3,NA,NA,37,6.1,NA,4.98,14,12.4,233,0,642,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.19,133,27.2,2,4,5,36.4,5.3,59.8,4.06,11.4,12.8,91,4,643,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.07,147,53,3,3,5,37.8,11,73.4,4.84,14.2,12.4,327,54,644,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.4,143.5,46,1,5,4,36.8,12.9,77.8,5.08,13.8,13,275,18,645,male,conservative,uncomplicated,appendicitis,appendicitis
+12.9,153,40,3,2,7,38.4,26.9,90,4.85,14.2,13.1,418,4,646,female,conservative,uncomplicated,appendicitis,no appendicitis
+7.02,132,19,2,2,7,38.2,19.9,93.8,4.47,11.9,13.6,340,14,647,male,conservative,uncomplicated,appendicitis,no appendicitis
+17.3,173,68,3,7,4,36.6,5,NA,4.83,14.3,12,168,0,648,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.75,155,54.5,3,3,7,37.7,10.3,81.2,4.79,13,13.7,254,57,652,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.43,160,45,4,NA,NA,37.1,8.8,NA,4.28,13.5,12.8,226,0,653,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.76,161,51.5,3,5,4,36.9,11.5,70.7,4.59,13.2,12.6,255,6,656,female,conservative,uncomplicated,appendicitis,appendicitis
+10.95,NA,36,3,2,8,37,14.3,87.8,4.91,13.8,11.8,403,14,657,male,conservative,uncomplicated,appendicitis,appendicitis
+11.15,155,42,3,6,6,36.8,7.5,59.6,5.18,13.8,13.3,234,0,660,male,conservative,uncomplicated,appendicitis,appendicitis
+10.37,156,39,3,7,5,37.4,5.6,38.6,4.8,14,12.6,275,0,661,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.65,163,61,3,NA,NA,36.5,13.9,NA,4.67,12.7,13.9,199,0,664,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.04,134,29.4,3,5,5,36,5.1,44.5,4.92,13.7,12.6,244,0,665,female,conservative,uncomplicated,appendicitis,no appendicitis
+4.76,111,19.9,3,2,7,38.4,15.8,86.4,4.99,13.2,13.9,243,56,667,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.79,137,36,2,4,6,36.6,14.6,77.7,4.73,13.1,12.2,251,4,668,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.38,163,47.6,3,4,6,37.4,8.3,66.9,4.73,13.6,12.6,220,21,672,female,conservative,uncomplicated,appendicitis,appendicitis
+13.64,158,53,3,5,4,37.5,7.4,52.6,4.94,14.5,13.3,277,1,675,female,conservative,uncomplicated,appendicitis,appendicitis
+12.42,147,34.5,3,5,3,37.1,13.3,72.4,4.93,13.8,12.9,200,0,683,male,conservative,uncomplicated,appendicitis,appendicitis
+15.89,143.5,47.5,4,3,6,37.9,17.4,78.3,4.92,14.6,12.8,219,22,686,female,conservative,uncomplicated,appendicitis,appendicitis
+9.94,140,29.5,3,2,6,37.4,18.6,75.2,5.29,14.3,13.5,433,37,689,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.01,148,35,4,1,8,38.1,16.9,78.7,4.5,11.9,13.8,344,25,691,male,conservative,uncomplicated,appendicitis,appendicitis
+7.26,130,25.6,4,8,2,36.9,6.9,46.2,4.86,13.5,12.5,275,0,695,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.58,158,47,3,6,4,37,9.6,68.4,4.28,13.9,12.7,352,11,696,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.8,162,54,3,3,8,36.9,10.9,88.8,4.47,13,12.3,260,5,697,male,conservative,uncomplicated,appendicitis,appendicitis
+13.83,NA,48,3,6,4,36.2,7.3,46.1,5.17,14.4,14.3,248,0,698,male,conservative,uncomplicated,appendicitis,appendicitis
+17.06,176,76,2,7,2,37.2,6.3,NA,4.92,15.1,12.1,199,0,700,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.8,146.5,47,3,2,8,36.5,15.6,81.8,5.87,14.6,14.2,282,37,701,female,conservative,uncomplicated,appendicitis,appendicitis
+6.56,135,41,3,3,6,36.4,17.4,87.1,4.74,12.3,13.9,318,5,NA,male,conservative,uncomplicated,appendicitis,appendicitis
+8.09,128,27,3,3,6,36.8,14,86.1,14,14.7,13.6,289,10,703,male,conservative,uncomplicated,appendicitis,no appendicitis
+4.52,110,16.5,4,2,9,37.3,22.1,87.6,5.03,13.1,13.5,365,10,704,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.35,163,68,3,4,4,36.8,12.1,78.2,4.37,12.3,14.6,271,16,708,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.09,143,36,2,8,2,37,7.3,69.6,4.9,14.3,11.3,354,1,711,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.81,156,59.1,4,6,5,36.2,17.8,NA,4.8,13.8,12.9,296,84,712,male,conservative,uncomplicated,appendicitis,appendicitis
+12.93,171,45,2,6,3,36.6,15.9,74.5,4.95,12.8,12.8,260,1,714,male,conservative,uncomplicated,appendicitis,appendicitis
+15.87,166.5,53.3,3,8,2,37,5.2,46.1,4.27,12.9,12.2,267,0,715,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.24,165,58,3,8,2,36.9,10,NA,5.06,13.9,12.1,382,7,716,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.26,174,47.5,3,5,5,36.7,10.4,54.1,5.32,14.6,13.1,298,0,717,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.99,140,37,3,5,4,37.8,9.7,68.4,4.99,13.5,12.1,368,15,718,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.27,146.7,37.4,3,8,2,37.2,5.7,32.2,4.72,13.2,12.4,276,0,721,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.21,158,52,3,6,4,36.2,5.9,61.5,4.67,13.5,12.6,223,0,722,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.37,161,53,3,8,4,36.7,6.2,53.2,4.44,12.3,12.1,249,0,724,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.86,154,84,3,6,4,37.4,7.2,68.3,4.62,12,13.6,221,2,725,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.4134154688569,150.5,42.5,3,4,5,37.2,9.1,75,5.49,16.3,12.6,311,0,317,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.31690622861054,129,28,2,NA,NA,37.5,NA,NA,NA,NA,NA,NA,NA,318,male,conservative,uncomplicated,no appendicitis,no appendicitis
+9.3305954825462,127.5,25,5,5,4,36.4,7.6,54.1,5.09,15,11.9,302,0,319,female,conservative,uncomplicated,no appendicitis,no appendicitis
+14.9267624914442,181,68.9,3,6,5,36.4,9.7,61.3,5.77,17.5,12.8,222,24,60,male,conservative,uncomplicated,appendicitis,appendicitis
+17.4893908281999,165,48.25,3,8,2,26.9,5.8,62.9,4.36,13.8,12.4,205,0,320,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.6659822039699,163.5,62.5,5,8,2,36.8,9.2,60.3,4.61,12.9,13.9,296,1,321,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.11,165.5,48.5,3,6,4,36.8,7.8,73.7,5.67,15.2,12.8,213,16,322,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.0527036276523,152.5,60.5,3,5,6,37,7.5,50.8,5.09,13.4,11.9,283,0,323,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.429158110883,158,34.4,3,6,4,37.8,4,NA,4.6,12.9,13.1,221,2,324,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.8097193702943,162,43,3,4,6,38,8.4,80.3,4.44,13.1,12.6,175,30,61,female,conservative,uncomplicated,appendicitis,appendicitis
+10.735112936345,140,31,3,5,4,37.2,8.6,40.6,4.87,13.4,11.9,323,0,62,female,conservative,uncomplicated,appendicitis,appendicitis
+7.709787816564,130,36,3,5,3,36.8,15.4,64.5,4.59,11.8,13.3,301,106,63,female,conservative,uncomplicated,appendicitis,appendicitis
+10.90212183436,145,44.5,2,5,6,36.4,9.7,56.2,5.24,14.4,12.7,374,0,431,male,conservative,uncomplicated,appendicitis,no appendicitis
+17.56,165,52,3,5,4,37.3,11.2,70.3,4.36,12.8,11.8,340,8,NA,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.2436687200548,153,36.5,3,5,5,36.8,4.1,49.6,4.49,11.9,14.5,245,2,64,male,conservative,uncomplicated,appendicitis,appendicitis
+14.2915811088296,167.5,51.4,3,4,4,37.2,11.2,74.7,4.73,13.7,12.3,322,15,65,female,conservative,uncomplicated,appendicitis,appendicitis
+15.3867214236824,161,69.8,3,5,5,37.2,12.1,67.7,4.82,13.9,12.8,208,1,326,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.813826146475,164,60.8,3,7,2,37.3,7.6,55.1,4.48,13.2,14,252,0,327,female,conservative,uncomplicated,no appendicitis,no appendicitis
+5.76865160848734,125,30.7,3,5,4,39.7,11.4,65,5.1,13.6,13.5,305,25,328,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.9698836413415,174,23.7,4,8,2,37,6.8,59.5,4.73,14.2,12.2,233,0,329,female,conservative,uncomplicated,no appendicitis,no appendicitis
+8.6735112936345,133.5,28.5,3,4,4,38.2,12.5,72.2,4.35,12.8,12.2,295,20,67,female,conservative,uncomplicated,appendicitis,appendicitis
+11.1321013004791,141.5,28.5,3,8,2,37,9,49.4,6,10,18.7,365,0,330,female,conservative,uncomplicated,no appendicitis,no appendicitis
+16.7720739219713,166,70,3,5,4,37,17.4,81,4.61,13.4,12.7,343,6,68,female,conservative,uncomplicated,appendicitis,appendicitis
+9.26762491444216,163,62,2,8,2,36.8,8.6,49.4,5.49,14.2,13.7,294,4,331,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.5386721423682,170.5,53,2,8,2,36.8,5.8,42.1,5.54,13.9,13.7,253,0,332,male,conservative,uncomplicated,no appendicitis,no appendicitis
+12.3860369609856,157.4,51.8,4,8,2,36.4,8.8,56.4,5.49,13.5,14.5,417,1,333,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.0527036276523,165,50,2,7,3,36.8,9,78.2,4.52,13.5,11.8,204,0,336,female,conservative,uncomplicated,no appendicitis,no appendicitis
+14.5790554414784,162,77,4,7,3,36.8,7,43.3,4.54,13,12.7,262,1,337,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.7700205338809,152,30.8,3,4,5,37.2,12.9,75.2,4.5,12.6,13.2,260,8,69,male,conservative,uncomplicated,appendicitis,appendicitis
+5.13894592744695,116.5,18.4,3,6,3,38.6,4.3,78.3,4.47,12.3,13.5,183,1,70,male,conservative,uncomplicated,appendicitis,appendicitis
+9.23750855578371,141.5,41.4,3,6,3,36.8,14.9,68.9,4.84,12.1,14.9,311,1,71,male,conservative,uncomplicated,appendicitis,appendicitis
+6.0041067761807,123,18,3,2,7,39.2,19.4,76.8,4.17,11.4,14.3,269,51,72,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.3011635865845,148,33,3,8,2,37,6.5,27.2,5.25,15,12.5,309,0,339,male,conservative,uncomplicated,no appendicitis,no appendicitis
+17.1991786447639,175,68.5,2,3,5,37.6,15.9,85.5,4.71,12.7,12.4,200,0,432,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.2922655715264,160,74.3,4,4,4,36.8,13,NA,5.03,14,14.7,298,46,73,male,conservative,uncomplicated,appendicitis,appendicitis
+12.5694729637235,170,50,1,4,5,37.3,13.4,84.4,4.3,12.3,12.9,236,0,74,female,conservative,uncomplicated,appendicitis,appendicitis
+12.558521560575,175,76,3,6,4,37.4,7,NA,5.5,15.1,13.1,361,5,75,male,conservative,uncomplicated,appendicitis,appendicitis
+12.2710472279261,149.8,35.8,3,NA,NA,36.6,5.7,NA,4.52,12.6,12.7,238,8,340,male,conservative,uncomplicated,no appendicitis,no appendicitis
+15.2142368240931,169.5,64.8,2,NA,NA,37.5,6.9,NA,4.48,12.8,12.4,194,13,341,female,conservative,uncomplicated,no appendicitis,no appendicitis
+6.79,129,31,3,3,8,37.3,16.3,81.1,5.21,13.6,13.2,331,4,NA,male,conservative,uncomplicated,appendicitis,appendicitis
+7.98631074606434,142,38,3,5,3,37.2,11.4,58.8,5.06,13.2,13.7,376,0,342,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.264887063655,155,49,2,6,4,36.8,9.4,72.9,4.44,13.3,12.3,267,1,343,female,conservative,uncomplicated,no appendicitis,no appendicitis
+14.4941820670773,163.5,51.8,6,6,5,37.4,5,55.1,4.83,12,15.2,181,0,344,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.425735797399,150.5,46.5,2,8,4,37,7.7,63.2,4.77,13,11.9,230,0,345,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.5092402464066,144.5,35,3,5,4,37,8.3,67.1,4.74,13.5,12.1,224,13,77,male,conservative,uncomplicated,appendicitis,appendicitis
+15.7344284736482,178,58.5,3,6,4,37.2,8.8,50.7,5.46,15.3,12.8,200,45,78,male,conservative,uncomplicated,appendicitis,appendicitis
+13.89,158,67,3,6,6,37.1,8.1,50.1,5.18,14.2,13.7,277,1,NA,female,conservative,uncomplicated,appendicitis,appendicitis
+11.8685831622177,151,38.5,2,6,4,39.2,9.7,70.8,4.75,13.1,12.4,229,6,79,female,conservative,uncomplicated,appendicitis,appendicitis
+16.4380561259411,173.5,71.1,3,3,6,38.2,21.7,84.2,5.19,15.2,11.9,248,19,80,male,conservative,uncomplicated,appendicitis,appendicitis
+8.71457905544148,140.5,38,4,4,5,38,19.5,83,4.39,12.4,13.7,340,7,81,female,conservative,uncomplicated,appendicitis,appendicitis
+9.79055441478439,141,37.5,4,4,5,39.4,11.7,77.4,4.98,13.1,13.7,210,50,82,female,conservative,uncomplicated,appendicitis,appendicitis
+13.700205338809,166,60,3,4,4,37.9,12.5,73.2,4.69,12.7,12.1,256,21,83,male,conservative,uncomplicated,appendicitis,appendicitis
+12.5475701574264,161.5,53,3,8,2,37.2,7.6,55,4.94,14.9,12.7,320,0,347,male,conservative,uncomplicated,no appendicitis,no appendicitis
+9.68104038329911,143,36,3,6,2,37.4,6.1,49.3,4.38,11.3,13.6,223,51,84,female,conservative,uncomplicated,appendicitis,appendicitis
+8.8870636550308,132,27,3,5,6,37,7.1,54.8,4.52,12.3,12.9,265,0,348,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.41820670773443,112,19.7,3,4,5,39,8.8,80,4.38,12.1,NA,268,76,433,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.2060232717317,138,25.4,4,2,5,37.6,16.7,82.6,4.51,12.6,12.5,351,2,349,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.4387405886379,154.4,58,3,4,7,37,18.2,NA,4.87,12.8,13.2,359,5,86,male,conservative,uncomplicated,appendicitis,appendicitis
+11.8986995208761,140,33,3,0,10,38.2,12.4,77.2,4.68,13.1,13.7,355,16,87,male,conservative,uncomplicated,appendicitis,appendicitis
+16.2327173169062,174,54,3,2,9,38,13,80,4.81,14.3,12.5,238,74,88,male,conservative,uncomplicated,appendicitis,appendicitis
+8.61601642710472,148.5,35,3,5,4,39.3,5.4,79.6,4.45,12.6,12.7,167,4,352,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.9808350444901,145,35.9,3,6,2,37.8,5.6,41.1,4.41,11.9,13.4,389,36,353,male,conservative,uncomplicated,no appendicitis,no appendicitis
+15.0499657768652,175,59,3,7,3,36.8,8.9,55.7,5.81,15.8,13.3,189,0,355,male,conservative,uncomplicated,no appendicitis,no appendicitis
+5.927446954141,109.5,15,3,4,3,37.8,10.4,56.4,4.74,12.5,13.4,396,24,356,male,conservative,uncomplicated,appendicitis,no appendicitis
+7.21149897330596,127.5,25,3,7,2,36.8,7.1,72.9,5.04,13.1,13.5,406,0,89,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.4880219028063,167,57.4,3,3,5,38,12.2,85.4,4.39,13.1,13.7,227,55,434,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.25462012320329,136,32.6,3,5,4,36.6,9.8,63,4.56,12.6,13.3,253,0,90,male,conservative,uncomplicated,appendicitis,appendicitis
+11.8275154004107,156,42,3,1,5,37.8,10.4,70.6,4.82,12.7,12.6,265,27,91,female,conservative,uncomplicated,appendicitis,appendicitis
+11.0691307323751,141,32,3,4,5,37.2,16.1,80.9,4.76,13.9,12.7,294,4,92,male,conservative,uncomplicated,appendicitis,appendicitis
+10.3326488706366,149,33.8,3,8,2,36.2,7,NA,5.02,13.9,12.8,241,0,93,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.1478439425051,166.5,61.8,2,NA,NA,38.4,10.3,NA,4.71,13.8,13.2,293,1,435,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.5284052019165,152.3,68,3,3,7,36.8,11,82.4,5.33,14.4,13.5,153,5,436,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.23750855578371,134,30,3,3,5,37.6,10.9,80.9,4.81,12.4,12.7,341,20,95,male,conservative,uncomplicated,appendicitis,appendicitis
+6.35728952772074,120,19,3,2,6,38.2,20.9,77,4.76,10.9,16.5,231,135,96,female,conservative,uncomplicated,appendicitis,appendicitis
+14.5763175906913,155,55.2,4,1,9,38.7,14,91.6,4.6,13.5,12.6,234,9,362,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.5092402464066,151,40.8,4,7,2,37.5,8.7,52.9,4.83,13.8,13.3,287,1,363,female,conservative,uncomplicated,no appendicitis,no appendicitis
+10.3655030800821,138,40,3,2,6,38.5,10.6,83.6,4.59,13,12.1,247,6,97,male,conservative,uncomplicated,appendicitis,appendicitis
+7.59206023271732,134,23,3,6,5,37.5,7.4,54.2,4.9,13.5,12.4,280,1,98,female,conservative,uncomplicated,appendicitis,appendicitis
+14.6146475017112,188,39,3,4,5,36.8,10.5,76.7,4.74,13.6,12.9,174,42,437,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.8720054757016,177.5,51,3,7,2,36,12.9,67,5.25,15.3,12.4,252,0,366,male,conservative,uncomplicated,no appendicitis,no appendicitis
+12.0136892539357,160,74,3,5,6,37,7.5,56.3,4.91,13.8,13.5,305,1,438,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.8110882956879,166,44,2,2,7,37,15.7,83.7,5.2,14.4,12.8,249,15,99,female,conservative,uncomplicated,appendicitis,appendicitis
+7.73990417522245,120.5,32,3,5,3,38.8,9.8,54.5,5.1,14,12,305,55,439,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.04,152,48,3,2,8,37,10.3,79.8,5.04,14.6,11.8,270,0,368,female,conservative,uncomplicated,no appendicitis,no appendicitis
+9.34,137.5,36,3,8,2,37,7,53.1,4.9,13.6,12.4,190,0,369,female,conservative,uncomplicated,no appendicitis,no appendicitis
+14.1738535249829,166.5,59,4,7,4,37,5.6,NA,4.29,12.3,11.9,278,0,370,female,conservative,uncomplicated,no appendicitis,no appendicitis
+1.72758384668036,83.5,12.5,3,5,5,38.8,7.9,57,4.75,12.1,13.7,310,29,371,male,conservative,uncomplicated,no appendicitis,no appendicitis
+10.1574264202601,142.2,42.5,2,1,6,37.4,15,72.5,4.73,12.5,12.9,318,2,440,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.14784394250513,136,29,4,5,4,38.4,11,NA,4.2,10.9,13.5,197,79,100,female,conservative,uncomplicated,appendicitis,appendicitis
+11.4004106776181,145.5,34.5,3,6,4,37,8.2,67.5,5.2,14.2,13,206,1,372,female,conservative,uncomplicated,no appendicitis,no appendicitis
+10.5598904859685,151,52,3,4,4,37.2,17.7,NA,4.89,13.1,12.4,360,25,101,male,conservative,uncomplicated,appendicitis,appendicitis
+14.6146475017112,164.8,57.3,3,NA,NA,38.4,6.2,NA,4.98,14.1,13,205,26,251,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.7125256673511,181,58,4,4,7,39.5,8.7,72.7,5.12,13.8,13.7,204,24,405,male,conservative,uncomplicated,appendicitis,no appendicitis
+13.492128678987,162,45,3,5,6,37.2,13.7,65,4.78,10.6,14.9,497,0,406,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.5160848733744,156,65.1,3,NA,NA,36.6,11.5,NA,4.34,12.2,13.2,227,6.9,255,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.3408624229979,149,47.2,4,4,6,38.9,8,83.1,5.29,14.8,13.1,197,149,256,female,conservative,uncomplicated,no appendicitis,no appendicitis
+7.21423682409309,110.5,21.3,3,4,7,38,7.1,NA,4.96,13.7,14.2,170,14,407,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.53319644079398,141,28,3,NA,NA,38.8,7.7,NA,5,13,NA,225,0,408,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.0164271047228,145.5,42.7,2,3,5,37.4,18.9,85,4.69,12.6,13.7,307,16,34,male,conservative,uncomplicated,appendicitis,appendicitis
+12.870636550308,168.5,85,5,2,6,36,12.3,77.5,4.72,11.8,15.1,311,6,35,male,conservative,uncomplicated,appendicitis,appendicitis
+7.81656399726215,133,33,4,3,7,36.2,10.9,50.5,4.43,12.4,12.6,382,10,261,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.652977412731,140,35.5,3,5,5,37.8,15.7,67.1,4.8,13.9,13.2,292,26,409,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.0205338809035,159,40,3,8,4,37,8.6,NA,4.61,13.6,12.7,390,58,262,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.9356605065024,167,61,3,4,4,36.6,17.1,80.5,4.59,12.8,12.5,308,2,410,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.5318275154004,166,63,3,2,6,38,14.2,88.9,5.2,14.9,12.9,319,3,263,female,conservative,uncomplicated,no appendicitis,no appendicitis
+13.4647501711157,169,42,3,2,8,36.5,18.2,89.7,4.97,14.5,13.9,267,1,36,male,conservative,uncomplicated,appendicitis,appendicitis
+13.4866529774127,163,76,5,7,3,36.2,9.6,50.4,5.01,14.2,13.9,414,0,264,male,conservative,uncomplicated,no appendicitis,no appendicitis
+6.67214236824093,124,38.5,3,1,7,39.6,16.8,92.4,5.27,13.2,13.7,444,21,265,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.58247775496236,146,32.4,4,6,6,36.6,8.9,41.6,4.74,12.9,13.6,192,0,266,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.9034907597536,160,49,3,3,4,37.8,11.9,55.2,4.91,13.2,13.5,226,0,411,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.51403148528405,147.5,41.4,3,1,6,37.8,12.4,81.1,5,14.2,12.5,235,7,267,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.9616700889802,161,55,4,2,6,37.8,11.3,79.7,4.95,14,12.4,278,2,412,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.92197125256674,144.5,31.5,3,2,6,37.8,13.4,81.7,4.72,13.3,12.5,242,14,37,female,conservative,uncomplicated,appendicitis,appendicitis
+11.8466803559206,164,60,3,5,6,37.4,5.4,49.8,4.79,13.3,12.2,237,1,38,female,conservative,uncomplicated,appendicitis,appendicitis
+10.2970568104038,149.2,42,3,7,4,37.2,9.1,66.3,4.27,11.8,13.2,226,13,39,male,conservative,uncomplicated,appendicitis,appendicitis
+15.5728952772074,176,52,3,5,5,37.7,8.6,62.7,5.37,15.4,12.8,238,21,268,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.3381245722108,148,35,2,6,4,37,8.2,48.4,5.01,14.1,12.5,274,0,40,male,conservative,uncomplicated,appendicitis,appendicitis
+9.1937029431896,144,32,3,0,9,37.8,13.6,79.2,4.93,12.8,14.1,302,0,41,female,conservative,uncomplicated,appendicitis,appendicitis
+10.7186858316222,153,48,3,4,6,38.8,11.4,54,5.23,13.8,13.5,276,1,413,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.8590006844627,141.4,29,3,8,2,36.8,4.7,39.5,4.44,13.1,12.5,165,0,269,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.2689938398357,156.2,39,3,6,2,37.5,8.9,57.7,4.87,13.8,12.7,297,27,42,female,conservative,uncomplicated,appendicitis,appendicitis
+13.8562628336756,160.5,61.3,3,3,4,37.2,10.6,44.1,4.58,14,11.9,320,0,270,male,conservative,uncomplicated,appendicitis,appendicitis
+12.9582477754962,168,47.5,6,5,6,36.5,8.8,60.6,4.87,14.2,13.7,274,0,271,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.3839835728953,149,68,3,7,3,38.4,8.7,43,4.82,13.3,12.2,255,4,272,female,conservative,uncomplicated,no appendicitis,no appendicitis
+10.735112936345,146,57.5,4,5,3,37.3,10.2,74.9,5.66,16.1,12.9,277,45,43,male,conservative,uncomplicated,appendicitis,appendicitis
+13.9,152,54.7,3,7,3,37.3,7.1,51.1,4.74,13.5,12.8,217,0,NA,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.52772073921971,118,18.1,4,1,10,38.5,15,87.2,4.46,12.2,13.2,441,33,44,female,conservative,uncomplicated,appendicitis,appendicitis
+11.3812457221081,150,39,3,5,6,36.8,15.3,66.7,5.33,14.1,14.1,299,1,276,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.8357289527721,152,41,3,4,7,38.8,11.6,62.2,4.92,13.6,13.2,294,17,45,male,conservative,uncomplicated,appendicitis,appendicitis
+9.26488706365503,144.5,39,2,3,6,36.8,15.1,91.8,5.37,14.6,13.3,197,5,46,male,conservative,uncomplicated,appendicitis,appendicitis
+12.8158795345654,149,37,3,3,4,37.5,14.8,83.3,5.53,12.7,13.5,282,10,47,male,conservative,uncomplicated,appendicitis,appendicitis
+12.0985626283368,161,40.8,3,7,3,36.8,5.6,59.1,4.54,12.5,13.1,272,0,278,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.3319644079398,156.5,69,5,5,3,37,10.8,69,4.63,12.4,13.1,275,1,414,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.6666666666667,137,37,4,1,10,38.1,15.5,84.4,5.44,13.5,13.2,383,54,415,male,conservative,uncomplicated,appendicitis,no appendicitis
+17.1006160164271,182.5,78,3,4,4,37,8.7,77.5,4.93,15,12.6,261,13,416,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.1902806297057,144.5,35.2,4,7,2,37.3,9.1,51.3,4.43,12.8,12.5,296,0,280,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.6297056810404,163,59,3,6,5,37,10.6,55.6,5.06,14.4,12.6,270,1,417,male,conservative,uncomplicated,appendicitis,no appendicitis
+5.85626283367557,115,23.5,3,4,6,38.7,13.9,71.9,4.93,13.4,14.6,333,39,48,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.67282683093771,136,29.1,3,5,4,36.2,19.4,88.3,5.38,14.1,12.6,414,3,418,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.0855578370979,147,35.5,3,3,6,36.4,12.2,77.6,4.9,13.1,13.3,347,12,283,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.009582477755,134,34,3,5,5,37.3,12,71.9,4.8,13.1,12.7,241,1,49,male,conservative,uncomplicated,appendicitis,appendicitis
+12.870636550308,162.5,40,3,3,4,38.6,13.6,84,5.16,15.5,12.3,259,34,419,female,conservative,uncomplicated,appendicitis,no appendicitis
+6.70225872689938,120.5,23,3,3,4,37.5,20.9,80.7,4.49,12.1,12.5,382,1,284,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.3956194387406,166,54,3,5,3,37.5,6.2,62.4,5.28,13.9,13.9,316,0,420,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.80698151950719,119,20.8,3,4,5,37.1,22.8,83,4.77,13,NA,322,0,50,male,conservative,uncomplicated,appendicitis,appendicitis
+12.2217659137577,154,47.5,3,1,8,38.4,13,77.4,4.94,13.5,13.4,253,2,421,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.58042436687201,170,52.2,3,7,3,36.8,9.1,68.1,4.11,12.6,11.6,307,4,287,female,conservative,uncomplicated,no appendicitis,no appendicitis
+5.0321697467488,115,19.2,2,4,5,40,13.7,NA,4.79,12.8,14.4,231,15,51,male,conservative,uncomplicated,appendicitis,appendicitis
+12.0602327173169,144,36.5,3,3,5,38,10.7,72.7,4.34,12.5,12,219,29,422,female,conservative,uncomplicated,appendicitis,appendicitis
+6.38193018480493,120,20,3,3,4,37.8,18.7,78.1,4.75,13.4,11.5,436,3,423,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.3237508555784,154,52,3,5,6,36.8,10.1,78.6,5.01,13.6,12.7,361,0,291,female,conservative,uncomplicated,appendicitis,no appendicitis
+5.3305954825462,121.5,22.2,2,8,2,36.3,3.5,NA,5.26,14.4,12.8,277,11,292,male,conservative,uncomplicated,no appendicitis,no appendicitis
+14.0999315537303,163,50,3,8,2,36.8,7,56.1,4.81,13.3,13.9,234,1,293,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.4168377823409,151,50,3,7,5,36.9,7.9,43.3,4.67,13.9,12.6,314,0,424,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.2395619438741,134.5,26.5,3,6,4,37.2,6.9,66.1,5.03,14.3,13.4,204,7,294,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.047227926078,146.5,55,5,6,4,37,8.5,42.8,4.37,11.9,12.1,345,1,297,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.6194387405886,150,58.4,3,8,4,37,7,NA,4.56,12.2,12.5,361,3,298,male,conservative,uncomplicated,no appendicitis,no appendicitis
+14.1984941820671,165,44,3,6,4,36.6,5.1,44.9,4.95,13.2,12.7,289,0,300,male,conservative,uncomplicated,no appendicitis,no appendicitis
+10.0971937029432,136.5,33,2,6,4,36.7,13.1,62.6,5.09,14.3,12.2,254,0,301,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.82340862423,150,61,3,5,6,36.8,7.7,61.5,4.19,11.6,13,279,7,52,female,conservative,uncomplicated,appendicitis,appendicitis
+11.27446954141,146,33,3,6,4,36.6,7.7,56.1,5.14,14.6,11.7,389,0,302,female,conservative,uncomplicated,no appendicitis,no appendicitis
+13.2484599589322,161,80,3,6,3,36.8,11.1,NA,5.22,13.7,12.9,438,9,303,male,conservative,uncomplicated,no appendicitis,no appendicitis
+9.96577686516085,127.5,27,3,5,3,37,12.3,47.3,5.03,13.7,12.4,152,0,425,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.6297056810404,181.5,70,3,6,3,37,11.2,72.9,5.34,15.2,12.6,315,1,305,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.43463381245722,146,34,2,6,4,37.2,8,46.9,4.31,13.9,12,233,0,306,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.9253935660507,159.5,60.1,3,0,9,37.4,11.3,84.2,5.18,15.1,12.8,298,7,54,male,conservative,uncomplicated,appendicitis,appendicitis
+8.86516084873374,134.5,26.4,3,4,5,37.9,5,70.1,5.09,14.7,12.4,182,15,426,male,conservative,uncomplicated,appendicitis,no appendicitis
+4.145106091718,106,17,3,4,4,37.5,17.9,84,4.63,12.3,13.4,288,2,427,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.5982203969884,154,55,3,7,3,37,6.2,41.2,4.81,12.9,14.9,151,0,307,male,conservative,uncomplicated,no appendicitis,no appendicitis
+5.3388090349076,113,20,2,5,6,38,10.4,NA,4.71,14.1,13.3,310,3,428,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.813826146475,152,52.7,3,3,7,36.8,11.3,NA,4.88,13.5,12.5,442,1,308,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.7214236824093,143,27.5,4,7,5,37.2,9.2,NA,4.48,12.3,12.2,365,0,309,female,conservative,uncomplicated,appendicitis,no appendicitis
+14.5242984257358,181,55,3,6,4,37,9,57.3,4.9,14.5,12.1,193,0,310,male,conservative,uncomplicated,no appendicitis,no appendicitis
+8.97467488021903,125.3,25.3,3,3,5,38.8,13.9,84.5,4.47,12.7,13.2,229,13,55,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.8993839835729,150.5,50,3,5,4,36.8,10.2,63.4,4.82,13.4,12.7,332,0,56,female,conservative,uncomplicated,appendicitis,appendicitis
+16.3340177960301,173,72,2,6,3,36.2,4.5,41.2,4.74,15.1,12.5,128,0,312,male,conservative,uncomplicated,no appendicitis,no appendicitis
+12.9171800136893,164.5,51.8,3,7,5,37.2,6.4,38.7,4.61,13.8,12.4,245,0,57,female,conservative,uncomplicated,appendicitis,appendicitis
+15.7535934291581,170,88.8,3,5,4,36.8,14.7,70.2,4.96,13.2,13,331,1,429,female,conservative,uncomplicated,appendicitis,no appendicitis
+6.18206707734429,116,20,3,3,6,38.9,17.5,85.5,4.6,12.5,13.5,349,50,430,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.9650924024641,165,56,3,7,3,37.1,8.2,56,4.72,14.2,11.8,283,0,313,female,conservative,uncomplicated,no appendicitis,no appendicitis
+3.36755646817248,94.6,12.7,3,3,5,38.5,14.8,79,4.4,12.1,12.4,329,6,314,male,conservative,uncomplicated,no appendicitis,no appendicitis
+12.9637234770705,146,41,3,4,5,37.2,16.2,87.6,4.82,13,11.8,387,38,58,male,conservative,uncomplicated,appendicitis,appendicitis
+11.4469541409993,146.2,42.4,4,7,3,37.2,8.2,55.3,5.35,14.8,12.1,356,0,315,female,conservative,uncomplicated,no appendicitis,no appendicitis
+4.76933607118412,108,16.4,3,3,5,39,28.2,76,4.74,12.8,13.7,385,12,374,female,conservative,uncomplicated,appendicitis,no appendicitis
+10.5379876796715,133.5,28.5,3,7,3,37.2,6.6,55.3,4.41,12.3,12.8,239,13,3,male,conservative,uncomplicated,appendicitis,no appendicitis
+10.425735797399,146,34.5,3,6,3,37,12.4,57.9,5.04,14.4,12.6,365,6,4,male,conservative,uncomplicated,appendicitis,appendicitis
+12.5311430527036,159,41.7,6,4,5,38.7,13.3,NA,4.56,12.7,13,281,76,1,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.10609171800137,138.5,46,3,6,4,37.8,7.1,49.6,5.42,14.3,13.1,401,6,375,female,conservative,uncomplicated,appendicitis,no appendicitis
+0.85,143,37.8,3,2,7,38.8,11.1,87.9,4.91,14,13,273,11,376,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.1642710472279,158,53,3,5,5,37.2,8.9,75,4.84,13.2,13,205,81,210,female,conservative,uncomplicated,appendicitis,no appendicitis
+13.2703627652293,164,55,3,8,2,37.2,4.2,50.6,4.95,14.3,13.1,221,2,5,female,conservative,uncomplicated,appendicitis,no appendicitis
+17.3716632443532,153,53,3,4,5,36.2,19.8,83.3,4.72,14.4,12.8,305,44,377,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.8870636550308,146.2,51,3,6,4,37.8,8.6,54.9,5.96,12.9,14.8,350,60,211,male,conservative,uncomplicated,appendicitis,appendicitis
+9.39082819986311,128.4,24.6,4,5,4,37.9,6,53.5,5.16,14.5,12.5,283,0,212,female,conservative,uncomplicated,no appendicitis,no appendicitis
+7.40041067761807,123,23,2,1,7,38,15,84.5,4.9,13.7,12.6,197,6,6,male,conservative,uncomplicated,appendicitis,appendicitis
+12.5913757700205,147.8,37,3,5,5,39,6,NA,4.75,14,12.3,320,15,378,male,conservative,uncomplicated,appendicitis,no appendicitis
+6.79260780287474,130,24,3,6,3,37.2,6.3,49.2,5.38,14.7,13,251,0,213,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.2156057494867,171,69,3,7,3,36.2,6.7,52.7,4.92,14.2,12.3,406,3,7,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.4360027378508,153,42,4,4,7,37.8,13.4,58.6,4.81,14,12.8,381,18,9,male,conservative,uncomplicated,appendicitis,appendicitis
+10.2477754962355,160,43,3,4,5,39,4.6,83,4,11.9,12.6,146,6,379,male,conservative,uncomplicated,appendicitis,no appendicitis
+9.70841889117043,135,59,3,6,3,37,11.1,43.5,4.75,13.7,12.2,283,2,216,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.1238877481177,160.5,60.8,3,2,6,38.7,13,NA,4.63,13.5,13.5,274,19,10,female,conservative,uncomplicated,appendicitis,appendicitis
+7.24161533196441,136.5,26,4,5,4,38.2,11.4,NA,4.96,14.1,12.6,303,17,217,male,conservative,uncomplicated,no appendicitis,no appendicitis
+14.8555783709788,178,78,3,1,7,39.5,11,80.9,4.63,13.1,13.5,239,87,380,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.1943874058864,169,68,3,6,4,39,7.1,50.7,4.98,13.1,13.8,377,0,218,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.6933607118412,154,45.7,3,4,5,38.7,12,84,4.92,13.5,13.1,201,47,12,male,conservative,uncomplicated,appendicitis,appendicitis
+9.55783709787817,133.7,28.5,3,8,2,37.2,9.4,40,4.75,13.5,12.6,285,0,13,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.90006844626968,146,30.7,2,3,4,37.9,17.1,86.7,5.01,13.9,12.6,255,15,381,male,conservative,uncomplicated,appendicitis,no appendicitis
+15.5947980835045,173,57,3,2,6,38.5,7.6,84,4.75,13.9,13.1,151,24,382,female,conservative,uncomplicated,appendicitis,no appendicitis
+16.7583846680356,149.5,56,4,7,4,36.8,9.8,63,4.42,13.3,12.7,262,39,219,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.2881587953457,167.6,61.7,3,6,6,36.8,5.7,61.5,5.19,12.8,14.2,249,0,383,female,conservative,uncomplicated,appendicitis,no appendicitis
+NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+10.9733059548255,145,49,3,NA,NA,37.2,10.5,NA,5.16,14,12.9,258,0,384,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.45653661875428,136,26.3,4,6,2,37.8,7.3,79.1,4.59,12.2,13.1,308,1,14,male,conservative,uncomplicated,appendicitis,appendicitis
+15.62765229295,185,66.2,3,4,5,39.9,15.3,88.5,5.48,16.3,11.9,368,80,223,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.4832306639288,165,61.7,3,6,6,37.2,9,57.3,4.54,12.7,12.9,264,0,15,female,conservative,uncomplicated,appendicitis,appendicitis
+15.3456536618754,164,42,4,5,3,36.8,10.1,65.4,5.2,14.9,12.9,221,42,16,male,conservative,uncomplicated,appendicitis,appendicitis
+15.6605065023956,183,66,3,5,4,37.1,15.9,76.5,5.34,16.3,12.3,265,0,17,male,conservative,uncomplicated,appendicitis,appendicitis
+13.9411362080767,142.5,32.5,3,7,2,37.1,7.4,49.1,5.37,13.9,12.8,246,NA,224,male,conservative,uncomplicated,no appendicitis,no appendicitis
+17.0814510609172,164.5,76,2,5,4,36.2,12.3,55.9,4.85,14.9,12.9,296,1,225,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.3921971252567,149,37.4,3,3,6,38.1,18.4,86.9,5.16,14.4,13.2,418,2,385,male,conservative,uncomplicated,appendicitis,no appendicitis
+12.5612594113621,148.5,48,3,5,4,37.4,7.9,76.7,5.64,13.3,13.7,316,3,386,male,conservative,uncomplicated,appendicitis,no appendicitis
+5.1772758384668,113,17,3,4,5,38.8,9.5,83.1,4.82,13.3,13.3,366,6,387,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.9897330595483,164,48.2,2,5,3,37.5,8.8,72.8,4.1,13.1,11.8,204,0,388,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.1697467488022,145.5,47,4,4,5,38.2,7.5,57.7,5.14,14.3,12.9,366,13,227,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.3887748117728,158.4,41,3,4,5,37,13.1,71,4.6,13.1,12.7,222,14,18,female,conservative,uncomplicated,appendicitis,appendicitis
+10.9952087611225,156.5,55,3,6,3,37,7.8,36.1,5.02,14.1,12.8,291,0,228,female,conservative,uncomplicated,no appendicitis,no appendicitis
+12.1889117043121,159,47,3,5,3,37,11.7,67.2,5.08,14.6,12.7,284,2,19,male,conservative,uncomplicated,appendicitis,appendicitis
+11.3292265571526,151.5,43.7,3,7,3,36,6.9,56.4,4.54,13,12.6,310,0,229,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.1129363449692,158.4,58,4,4,6,38.6,8.6,73.7,4.78,12.5,14.5,186,106,390,male,conservative,uncomplicated,appendicitis,no appendicitis
+6.28336755646817,132,26.1,3,7,3,38.2,7.9,70,4.87,12.8,13.8,219,38,20,male,conservative,uncomplicated,appendicitis,no appendicitis
+17.4455852156058,174,52,2,8,2,36.8,7.5,44.8,5.03,14.8,13.5,316,0,232,male,conservative,uncomplicated,no appendicitis,no appendicitis
+11.2717316906229,152,35.1,3,4,7,38,8.7,64.8,NA,NA,NA,NA,9,233,female,conservative,uncomplicated,appendicitis,no appendicitis
+8.47091033538672,129.5,26.9,3,4,6,38.1,6.7,35.1,5.1,14.5,12.7,399,0,392,male,conservative,uncomplicated,appendicitis,no appendicitis
+14.2450376454483,158,56,3,5,5,36.8,8.9,86.4,4.56,13.2,13.8,210,4,21,male,conservative,uncomplicated,appendicitis,appendicitis
+12.1998631074606,149.5,37.8,3,3,6,36.3,10.2,79.1,4.67,13.6,12.5,304,1,393,male,conservative,uncomplicated,appendicitis,no appendicitis
+13.4729637234771,168,52.3,7,4,7,37,7,43.4,4.33,13,12.7,200,0,394,female,conservative,uncomplicated,appendicitis,no appendicitis
+9.58,145,40,3,7,2,37.6,8.5,58.5,4.43,12.2,13.1,223,5,235,male,conservative,uncomplicated,no appendicitis,no appendicitis
+8.58316221765914,138,35.8,3,7,2,37.4,6.3,44.4,5.23,14,12.9,331,0,25,male,conservative,uncomplicated,appendicitis,no appendicitis
+11.4798083504449,141,34.5,3,2,8,39,17.7,70.7,5.24,14.8,12.8,297,0,26,male,conservative,uncomplicated,appendicitis,appendicitis
+16.7830253251198,158,46.5,3,7,4,37.7,8,53.5,4.76,14.3,12.2,238,0,236,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.13,156,53,3,7,3,36,7.8,50.3,5.06,15.5,13.1,199,0,27,male,conservative,uncomplicated,appendicitis,no appendicitis
+7.09650924024641,120,22,2,6,3,37.1,13,86.1,4.78,13.4,12.4,410,8,237,male,conservative,uncomplicated,no appendicitis,no appendicitis
+13.5605749486653,157,70.5,2,8,1,37.2,15,68.9,5.02,14.2,14.1,420,46,241,female,conservative,uncomplicated,no appendicitis,no appendicitis
+5.00479123887748,106,18,3,4,5,38.4,18,83.2,3.96,11.5,12.4,274,7,395,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.7145790554415,156.5,37,1,5,3,37.2,11.9,67.8,4.29,12.9,12.4,258,1,396,female,conservative,uncomplicated,no appendicitis,no appendicitis
+11.0390143737166,161,45,3,2,5,37,10.9,81.6,4.93,14.6,12.5,291,1,397,female,conservative,uncomplicated,appendicitis,no appendicitis
+15.2142368240931,155,85,3,3,8,36.8,12.4,68.4,4.62,12.8,13.8,542,7,28,female,conservative,uncomplicated,appendicitis,appendicitis
+11.3702943189596,140,24.6,4,3,6,38.3,15.5,81.1,5.19,14.3,12.6,305,74,398,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.4435318275154,171.7,66,3,4,4,37.2,10.6,68.2,4.87,14.1,12.9,290,2,29,female,conservative,uncomplicated,appendicitis,appendicitis
+15.709787816564,168,56,4,4,7,37,9.2,70.2,5.1,14.4,14.2,238,1,30,female,conservative,uncomplicated,appendicitis,appendicitis
+15.2799452429843,181,67,3,6,4,36.8,6.2,62,5.13,14.5,14.3,188,13,242,male,conservative,uncomplicated,no appendicitis,no appendicitis
+4.71184120465435,108,15.5,3,1,6,37.4,19.9,75.2,4.89,12.7,14.9,437,6,399,male,conservative,uncomplicated,appendicitis,no appendicitis
+16.186173853525,160,50,3,4,5,37.2,11.6,76.7,4.06,11.5,12.9,168,0,31,female,conservative,uncomplicated,appendicitis,no appendicitis
+11.2498288843258,161,52.5,3,NA,NA,36.9,5.7,NA,NA,NA,NA,NA,1,243,male,conservative,uncomplicated,no appendicitis,no appendicitis
+14.4914442162902,168,85.9,5,6,3,37,6.5,47.8,4.51,13.1,14,221,0,245,female,conservative,uncomplicated,no appendicitis,no appendicitis
+15.7234770704997,166,55,2,8,1,37,17.3,50.2,4.19,12.3,11.9,317,0,246,female,conservative,uncomplicated,no appendicitis,no appendicitis
+13.5222450376454,164,51,3,6,4,36.8,11.1,84.1,4.66,12.4,14.1,287,0,247,female,conservative,uncomplicated,no appendicitis,no appendicitis
+9.76317590691307,141.5,28.4,3,6,4,36,6.9,43.5,4.94,13.9,12.2,226,0,32,male,conservative,uncomplicated,appendicitis,appendicitis
+11.2607802874743,161.5,60,3,8,2,36.8,6.4,45.3,5.19,14.6,13.5,244,44,249,female,conservative,uncomplicated,appendicitis,appendicitis
+17.2073921971253,160,66.7,3,NA,NA,37.2,11.9,NA,4.38,13,12.9,286,2,400,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.4298425735797,170,56,3,2,6,39,15,83.6,4.7,13.5,12.9,248,23,401,male,conservative,uncomplicated,appendicitis,no appendicitis
+7.44969199178645,146,26.4,3,3,6,38.1,17.5,83,4.62,12.7,12.1,346,8,402,male,conservative,uncomplicated,appendicitis,no appendicitis
+13.9575633127995,166.5,77,3,6,5,36.8,8.7,49,4.35,12.9,12.4,233,0,403,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.6105407255305,172,83,3,8,2,36.8,5.1,61.4,5.43,15.4,12,207,0,250,male,conservative,uncomplicated,no appendicitis,no appendicitis
+17.4565366187543,162.5,61,3,3,7,36.8,13.1,80.8,4.9,13.5,13.9,276,5,404,female,conservative,uncomplicated,appendicitis,no appendicitis
+12.5119780971937,148.5,41,3,3,6,38,10.9,80,4.83,13.9,12.1,207,8,33,male,conservative,uncomplicated,appendicitis,appendicitis
+7.37,131.5,34,7,3,6,36.4,23.6,79,5.16,13.3,13.9,445,192,502,male,primary surgical,complicated,appendicitis,appendicitis
+11.22,148.5,50,4,2,7,38.5,14.7,83.8,5.11,13.6,13.9,297,132,503,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.52,155,40,7,1,9,36.8,17.7,88.3,5.47,15,13.2,200,167,504,male,primary surgical,complicated,appendicitis,appendicitis
+9.89,154,50,7,4,4,37,13.5,68.4,4.43,12.8,12,237,1,505,male,primary surgical,uncomplicated,appendicitis,appendicitis
+4.38,106,20.6,11,NA,NA,37.3,18.3,NA,4.79,11.8,15.3,432,140,506,male,primary surgical,complicated,Gastroenteritis,appendicitis
+13.83,170,50,5,7,2,37.1,5.5,57,4.16,12.6,12.2,336,1,507,female,secondary surgical,uncomplicated,chronische Appendizitis,appendicitis
+5.83,NA,20.5,8,3,7,39,18.5,81.9,4.4,11.4,13.3,171,68,508,male,primary surgical,complicated,appendicitis,appendicitis
+16.23,166,60,6,NA,NA,37,8.1,NA,3.83,10.6,13.6,238,37,509,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+9.32,132,26,4,2,7,36.5,18.6,88.3,4.24,12.2,12.4,283,7,510,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.79,154,41.2,5,6,3,36.3,5,50.3,5.19,13.7,14,286,32,511,male,primary surgical,uncomplicated,appendicitis,appendicitis
+5.72,118,20,5,5,4,39.1,7.7,70,4.51,12.2,12.9,221,3,512,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.99,NA,50,8,4,7,36.8,9.1,88.7,4.98,13.6,13.2,308,5,513,female,primary surgical,complicated,Ovarialtorsion,appendicitis
+4.94,120,22,5,2,9,38.2,23.8,77,4.58,11.8,13,187,197,514,female,primary surgical,complicated,appendicitis,appendicitis
+8.13,123,28,9,3,5,38,8.1,81.7,5.31,14.4,13,215,43,515,female,primary surgical,complicated,appendicitis,appendicitis
+13.16,168,45,4,5,6,36.7,12.7,65.4,4.78,12.4,13.7,357,15,516,female,primary surgical,uncomplicated,appendicitis,appendicitis
+18.36,NA,NA,4,2,7,36.2,10.3,59.9,4.26,12.3,13.1,248,74,NA,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+6.49,119,23,6,4,7,38.9,9.3,77.8,4.92,13.4,12.7,187,39,517,male,primary surgical,complicated,appendicitis,appendicitis
+11.24,151,49,8,0,9,37.8,24.3,80.3,4.57,13.2,11.7,355,38,518,male,primary surgical,complicated,appendicitis,appendicitis
+14.36,163,50,4,0,7,37.5,14.3,80.4,4.84,14,12.7,271,41,520,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+14.81,161,92,13,1,8,37.4,17.4,85,5.79,16.5,13.1,223,15,521,male,primary surgical,complicated,appendicitis,appendicitis
+12.66,145,37,8,3,6,36.3,16.3,92.1,5.01,14,13.1,259,100,522,male,secondary surgical,complicated,appendicitis,appendicitis
+12.79,158,57,8,NA,NA,38.4,20.4,NA,5.66,15.7,13.5,457,85,523,male,primary surgical,complicated,appendicitis,appendicitis
+6.25,116,20,8,2,8,37.1,15.3,79.2,4.5,12.8,12.3,341,34,524,female,primary surgical,complicated,appendicitis,appendicitis
+10.32,130.6,25,6,5,3,37.5,4.4,38.6,4.79,13.2,12.8,253,1,525,female,primary surgical,uncomplicated,chronische Appendizitis,appendicitis
+16.25,174,95,4,4,5,35.8,15.2,64.3,5.07,14,13,347,84,527,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+13.02,164,52,5,0,10,38.3,17.2,89.6,5.09,13.9,12.5,330,20,528,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.97,148,39,5,4,4,37.2,10.1,73.5,5.4,15.1,12.5,308,26,529,male,primary surgical,uncomplicated,appendicitis,appendicitis
+13.93,172,84,3,NA,NA,NA,5.4,NA,5.23,15.5,13.2,260,2,530,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.25,144,39,4,2,6,36.8,16.4,92.2,4.54,12.9,12.7,277,3,531,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+6.64,121,22.5,7,1,7,38.8,14,77.1,4.52,11.7,13,187,33,532,male,primary surgical,complicated,appendicitis,appendicitis
+12.52,143,32,5,4,5,36.4,13.2,85.5,4.99,14.7,12.8,255,1,533,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.96,160,56,1,6,6,37.7,19.9,84.3,4.56,12.3,13,323,62,534,female,primary surgical,uncomplicated,appendicitis,appendicitis
+4.3,105,16,6,3,6,38,8.1,77.3,5.94,15.6,12.9,222,205,535,female,primary surgical,complicated,appendicitis,appendicitis
+11.42,140,28.5,4,2,6,35.9,25.3,84.2,4.84,13.9,12.1,296,0,536,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.59,164,42,4,2,5,37.8,20.4,84.7,4.57,13.3,11.7,278,8,537,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+13.72,177,57,5,3,8,38.7,15.7,80.4,3.85,11.7,12.4,234,10,538,female,primary surgical,uncomplicated,appendicitis,appendicitis
+3.96,100,16,3,2,9,39.2,26.6,85,4.2,11.6,13.7,349,39,539,female,primary surgical,uncomplicated,appendicitis,appendicitis
+7.44,130,25.5,7,2,7,38.3,17.8,87.3,4.44,12.3,11.6,288,108,540,female,primary surgical,complicated,appendicitis,appendicitis
+10.27,138,27.5,20,NA,NA,37.8,NA,NA,NA,NA,NA,NA,NA,774,female,primary surgical,complicated,appendicitis,appendicitis
+2.8,92,12.5,13,4,5,39.6,21.9,76.1,4.28,10.7,12.1,455,162,542,male,primary surgical,complicated,prolongierte Gastroenteritis,appendicitis
+7.42,NA,25,5,2,6,37.8,21.8,89.4,5.24,14.8,12.7,546,32,543,female,primary surgical,complicated,appendicitis,appendicitis
+11.24,150,38,9,1,9,38.1,10.7,85.7,4.82,13.5,12.6,272,2,545,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.46,133,26,5,3,9,36.7,14.3,91.5,4.85,13,12.9,328,4,546,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.56,151,36,NA,NA,NA,NA,5.8,61.4,5.04,13.7,13.2,247,NA,547,female,secondary surgical,uncomplicated,chronische Appendizitis,no appendicitis
+12.83,158,40,8,2,6,38.2,10.2,86.2,4.58,12,12.9,446,80,548,male,primary surgical,uncomplicated,appendicitis,appendicitis
+2.6,97,14,8,5,5,37.3,8.2,61,4.35,9.7,16.1,221,64,550,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.68,166,54,4,1,7,36.3,14.9,86.1,4.45,11.6,13.6,236,1,551,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.71,147,40.5,5,2,8,36.7,19.8,91.3,4.77,13.9,12.4,357,3,553,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.79,178,95,6,0,7,37.4,25.8,97.7,4.66,13.2,12.7,335,51,554,female,primary surgical,complicated,appendicitis,appendicitis
+15,182,65,5,2,6,37,10.3,74.7,4.94,15.2,12.6,190,15,555,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.57,183,61,5,2,7,36.8,13.6,87.4,5.06,15.4,12,234,5,556,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.95,163,54,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,557,female,secondary surgical,uncomplicated,chronische Appendizitis,NA
+8.88,133.5,25,7,3,8,36.3,9.2,88,4.89,13.8,12.5,261,47,558,female,primary surgical,complicated,appendicitis,appendicitis
+9.04,140,32,5,NA,NA,37.7,14.8,NA,NA,NA,NA,NA,23,559,female,primary surgical,uncomplicated,appendicitis,appendicitis
+11.55,143,29.5,19,1,7,38.3,18.6,80,4.46,12.2,12.7,234,160,560,male,primary surgical,complicated,appendicitis,appendicitis
+13.73,190,61,7,3,6,37.2,18.3,82.1,4.38,12,14.7,356,183,561,male,primary surgical,complicated,appendicitis,appendicitis
+10.76,140,31,6,5,5,38.3,9.2,71.9,4.18,11.9,12,380,68,562,male,primary surgical,complicated,appendicitis,appendicitis
+9.25,138,29,8,3,5,37.5,23.8,79.2,4.91,13.7,79.2,353,353,563,male,primary surgical,complicated,appendicitis,appendicitis
+5.48,117,21,5,1,9,38.7,15.1,88.9,4.82,13.4,12.7,288,85,564,male,primary surgical,uncomplicated,appendicitis,appendicitis
+7.45,130,30,4,1,8,37.4,17.6,89.4,4.84,13.1,13,275,275,565,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.45,149,45,6,2,6,37.4,17.7,85.6,4.88,13.4,12.9,240,23,566,female,primary surgical,uncomplicated,appendicitis,appendicitis
+16.9,173,99,21,2,6,36.9,26.4,83.6,4.59,14.2,12.6,237,193,567,female,primary surgical,complicated,appendicitis,appendicitis
+12.32,154,37.8,12,1,7,37.6,15.7,83.3,4.8,13.9,12.3,306,306,568,male,primary surgical,complicated,appendicitis,appendicitis
+6.64,128,21,14,1,7,38.7,17.9,94.2,4.91,14,12.5,295,122,569,male,primary surgical,complicated,appendicitis,appendicitis
+12.5,151,34,5,2,5,37.4,14.2,78.9,4.85,12.9,13.2,368,0,570,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+17.43,129,29,4,2,8,37,19.4,92.9,4.74,13.4,12,261,24,571,female,primary surgical,complicated,appendicitis,appendicitis
+16.99,168,59,6,NA,NA,37.5,24.8,NA,3.75,11.6,11.6,419,127,572,female,primary surgical,complicated,appendicitis,appendicitis
+11.2,149,37,6,1,9,37.2,25.2,NA,4.99,14.4,12,306,224,441,female,primary surgical,complicated,appendicitis,appendicitis
+7.19,130.5,22.5,2,1,7,36.6,20.8,NA,4.77,13.3,12.9,423,23,NA,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+9.92,144,30,4,2,8,37.6,13.9,NA,5.1,13.7,13.3,245,7,443,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.17,146,37.5,5,2,6,37,18.1,NA,4.61,12.5,12.7,302,9,444,male,primary surgical,complicated,appendicitis,appendicitis
+10.11,143,30.5,5,6,6,36.6,8.4,NA,4.93,13.9,11.8,284,1,445,male,primary surgical,complicated,appendicitis,appendicitis
+8.2,133.5,24.5,9,3,6,37,15.7,87.8,4.75,12.8,11.9,285,6,446,female,primary surgical,complicated,appendicitis,appendicitis
+15.38,163,62.2,8,1,6,37.3,19.4,84.6,4.56,13.6,84.6,221,146,447,female,primary surgical,uncomplicated,appendicitis,appendicitis
+11.63,154.5,39,6,NA,NA,37.8,20,NA,NA,NA,NA,NA,43,448,female,primary surgical,complicated,appendicitis,appendicitis
+3.43,98,14,8,0,8,37.9,16.1,84,4.2,11.3,12.7,291,54,449,male,primary surgical,complicated,appendicitis,appendicitis
+4.62,114,25,12,3,6,38,14.2,75,4.81,12.9,13.4,316,323,450,female,primary surgical,complicated,appendicitis,appendicitis
+8.04,124,22,9,2,7,37.9,19.4,NA,4.89,12.9,12.3,473,80,451,female,primary surgical,complicated,appendicitis,appendicitis
+4.61,107,19.5,9,NA,NA,37,16.7,NA,5.01,11.4,15.7,402,1,452,male,primary surgical,complicated,appendicitis,appendicitis
+16.59,179.5,70,14,4,4,37.7,37.7,88,4.89,15,13.2,181,71,453,male,primary surgical,complicated,Gastroenteritis,appendicitis
+7.53,NA,23.3,7,3,5,37.8,15.9,82.8,4.37,36,12.2,366,15,454,male,primary surgical,complicated,appendicitis,appendicitis
+4.78,103,17.5,5,2,7,37.5,12.7,83.7,4.84,12.4,14.2,98,NA,455,female,primary surgical,complicated,appendicitis,appendicitis
+9.02,134,27,12,NA,NA,37.6,NA,NA,NA,NA,NA,NA,NA,456,female,primary surgical,complicated,appendicitis,appendicitis
+16.13,182,66,7,2,7,37.3,22.5,87.1,4.74,14.4,12.7,153,115,457,male,primary surgical,complicated,appendicitis,appendicitis
+11.15,143,29.5,7,2,6,37.2,15.4,81.8,4.27,11.9,11.9,315,4,458,male,primary surgical,complicated,appendicitis,appendicitis
+9.95,148,40,6,2,6,36.4,16.4,NA,4.31,12.6,11.9,356,59,459,female,primary surgical,complicated,appendicitis,appendicitis
+14.27,165,64,8,1,6,37.4,14.3,87,4.92,13.2,12.5,336,210,460,male,primary surgical,complicated,appendicitis,appendicitis
+8.32,128,21.7,4,2,7,38,18.8,91.4,4.91,13.1,13.7,244,36,461,male,primary surgical,complicated,appendicitis,appendicitis
+7.34,125,24.4,8,1,7,38.2,16.1,88.8,4.83,13.4,11.6,247,225,462,female,primary surgical,complicated,appendicitis,appendicitis
+11.46,154,40,8,1,7,37.6,15.5,78,4.96,14,12.3,254,88,463,female,primary surgical,uncomplicated,appendicitis,appendicitis
+4.28,116,18,10,1,7,38.9,18.5,87,4.34,12.2,12.6,402,165,464,male,primary surgical,complicated,appendicitis,appendicitis
+8.1,135,27,10,1,6,37.8,16.6,61,5.08,12.4,13.4,252,16,465,male,primary surgical,complicated,appendicitis,appendicitis
+10.62,137,45,6,NA,NA,39.2,14.7,NA,4.93,13.4,12.7,294,24,466,female,primary surgical,uncomplicated,appendicitis,appendicitis
+15.02,159,52.6,4,NA,NA,37.2,7.2,NA,4.92,14.2,13.4,205,67,467,female,primary surgical,uncomplicated,appendicitis,appendicitis
+14.58,171,60,5,NA,NA,37.3,14.7,NA,4.75,13.2,11.9,242,3,468,female,primary surgical,uncomplicated,appendicitis,appendicitis
+8.47,NA,24,5,0,8,38.6,18.1,88,4.11,11.9,12.4,318,173,469,male,primary surgical,uncomplicated,appendicitis,appendicitis
+4.23,92,13.4,10,7,2,37.9,4,74,5.38,13,13.7,456,23,471,male,primary surgical,uncomplicated,"diabetische Ketoazidose, Myokarditis",appendicitis
+10.34,141,39.4,4,0,7,37.7,22.5,86,NA,NA,NA,NA,8,472,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.29,132,24.6,8,1,7,37.9,20,83.4,4.36,11.2,13.2,354,180,473,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.14,135.5,28,7,2,7,38.6,20.3,91,4.93,13.6,13.2,366,31,474,male,primary surgical,complicated,appendicitis,appendicitis
+10.49,143,33.2,5,4,5,38.6,16.9,61,4.61,12.8,13.4,230,11,475,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.42,151,53,6,NA,NA,36.8,7.6,NA,4.58,13.1,12.8,234,1,476,female,secondary surgical,uncomplicated,chronische Bauchschmerzen,appendicitis
+11.37,145,44,5,3,6,36.4,15.2,86.9,4.9,13.6,86.9,281,19,477,male,primary surgical,uncomplicated,appendicitis,appendicitis
+3.74,103.5,16.4,6,5,5,37,14.8,NA,4.31,11.4,12.7,286,18,478,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.42,151,53,6,NA,NA,36.8,7.6,NA,4.58,13.1,12.8,234,1,NA,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+12.7,165,73,8,2,6,37.3,24.2,NA,5.38,13.7,14.5,441,56,479,male,primary surgical,complicated,appendicitis,appendicitis
+3.2,104,16,7,4,5,36.8,14.6,79,4.63,12.4,12.5,401,316,480,male,primary surgical,complicated,appendicitis,appendicitis
+11.05,131.5,26.5,2,4,7,39,15.9,91.5,4.28,12.2,13,272,171,481,female,primary surgical,complicated,appendicitis,appendicitis
+5.72,126,23,11,7,3,40,8.3,71,4.08,11.5,13.1,165,61,482,female,primary surgical,complicated,Sepsis mit Begleitappendizitis,no appendicitis
+7.81,NA,23,9,2,8,36,13,87.6,4.44,12.4,13,403,8,484,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.5,158,50,7,5,4,37.2,20.9,87,4.36,11.9,15.6,165,186,485,female,primary surgical,complicated,appendicitis,appendicitis
+8.58,131,30,4,5,4,36.2,11.7,64,4.87,13.6,13,263,40,486,male,primary surgical,uncomplicated,appendicitis,appendicitis
+2.06,90,12.5,9,NA,NA,37,8.6,49,4.93,12.7,13.9,267,145,487,male,primary surgical,complicated,appendicitis,appendicitis
+8.06,142,28.6,8,2,7,37.6,14.8,80,4.64,12.3,13.7,197,60,488,male,primary surgical,complicated,appendicitis,appendicitis
+4.69,105.5,16.2,3,3,5,37.5,14.5,67,4.54,10.6,15.2,326,9,489,female,primary surgical,uncomplicated,appendicitis,appendicitis
+7.12,128,24,4,2,6,36.6,13.1,NA,4.19,12.2,11.7,238,28,490,female,primary surgical,uncomplicated,appendicitis,appendicitis
+9.61,140,29.2,4,NA,NA,38.7,14.3,NA,5.18,14.8,12.9,340,106,491,male,primary surgical,uncomplicated,Gastroenteritis,appendicitis
+5.29,105,15,9,0,10,38,28.8,89.2,4.3,12.1,12.8,406,328,492,female,primary surgical,complicated,appendicitis,appendicitis
+12.46,161,50,5,1,8,37.7,14.3,84.5,4.59,13.1,12.5,241,241,493,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.43,157,46,7,1,7,37.1,16.4,90.2,4.62,13.5,12.7,256,31,494,female,primary surgical,complicated,appendicitis,appendicitis
+7.25,129.5,24.7,4,2,9,37.5,19.1,79.9,4.61,11.7,13.2,360,70,495,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.85,139,29,8,NA,NA,36.8,20.6,NA,4.89,13.2,12.4,385,214,496,male,primary surgical,complicated,appendicitis,appendicitis
+15.48,170,72,7,2,6,37.2,14.9,NA,4.37,11.7,12.9,233,62,497,female,primary surgical,complicated,appendicitis,appendicitis
+9.26,138.6,27,6,4,4,38,19,91.2,5.24,14.8,12.6,291,20,498,male,primary surgical,complicated,appendicitis,appendicitis
+15.11,179,80,6,7,3,36.9,6.9,74.2,4.54,14.1,12.3,170,28,499,male,primary surgical,complicated,appendicitis,appendicitis
+15.12,166,58,4,NA,NA,37.5,8.2,62,5.2,14.9,12.1,341,3,500,female,secondary surgical,uncomplicated,chronische Bauchschmerzen,appendicitis
+8.86242299794661,136,28,3,2,5,36.8,24.2,88.8,5.02,14.7,12.9,344,1,178,male,primary surgical,uncomplicated,appendicitis,appendicitis
+5.92470910335387,118,18,4,3,8,37,23.5,86.1,5.09,13.2,13.8,324,1,179,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.75838466803559,135,28,4,NA,NA,39,12.5,NA,4.38,12.6,13.1,208,31,316,female,primary surgical,complicated,appendicitis,appendicitis
+11.917864476386,159,40.1,4,1,9,37.8,19.5,79.9,4.92,13.3,13.3,300,17,180,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.68,131.9,28.55,4,8,2,36,8.4,70.9,5.12,14.8,12.7,383,2,NA,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+11.4770704996578,158,73,8,1,9,38,18.4,80,4.61,12.5,13.5,289,197,181,female,primary surgical,uncomplicated,appendicitis,appendicitis
+9.08145106091718,143,36.1,4,2,6,38.2,21.4,85.2,4.81,13.7,12.5,279,25,182,male,primary surgical,uncomplicated,appendicitis,appendicitis
+13.8945927446954,158,45,4,2,5,37.5,15.8,76.4,4.62,13.5,12.8,263,55,183,female,primary surgical,uncomplicated,appendicitis,appendicitis
+9.74674880219028,143,37.8,4,0,9,37.5,17.2,87,4.68,12.9,12.5,270,46,184,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.7775496235455,162,47,4,0,10,38.2,16.1,85.7,4.3,12.2,11.7,223,3,185,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.8966461327858,157,50,7,1,5,37.8,27.5,89.7,4.58,12.1,14,435,NA,325,female,primary surgical,complicated,appendicitis,appendicitis
+15.419575633128,173,50,5,4,4,36.8,17.1,86.2,4.89,15.2,12.1,222,3,186,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.2580424366872,151,38.5,5,3,5,36.8,18.8,88.9,5.07,13.6,12.9,357,5,187,male,primary surgical,uncomplicated,appendicitis,appendicitis
+17.8726899383984,175,54.2,4,8,2,37.2,9.2,73.4,5.12,15.2,13.3,200,4,188,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.0691307323751,174.5,98,6,6,4,36.6,7.5,58.4,4.98,14,14.6,290,1,189,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.8309377138946,140,28.5,4,1,9,37.4,11,74,5.06,14.4,12.6,325,57,66,NA,secondary surgical,uncomplicated,appendicitis,appendicitis
+11.337440109514,157.2,53.8,4,3,5,38.2,10.2,75.6,4.4,12.3,12.5,245,19,190,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.5051334702259,134.5,27,4,2,5,37.4,12.8,81,5.03,12.5,14.1,286,8,191,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.6741957563313,139.5,32.8,4,4,6,37.5,14.4,84.5,5.52,15.4,13.4,413,0,192,female,primary surgical,uncomplicated,appendicitis,appendicitis
+8.35865845311431,121,20.5,5,3,6,37.8,14.2,86.6,4.59,12.6,13.3,187,45,193,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.7994524298426,155,53,21,0,10,38.4,25,82.9,4.56,10.7,14.8,508,293,334,male,primary surgical,complicated,appendicitis,appendicitis
+4.24366872005476,105,17,5,NA,NA,37.9,NA,NA,NA,NA,NA,NA,NA,335,male,primary surgical,complicated,appendicitis,appendicitis
+12.7638603696099,149,40.15,4,2,6,38.4,10,87.4,5.08,14.9,12.5,207,62,194,male,primary surgical,uncomplicated,appendicitis,appendicitis
+3.19233401779603,95,12,9,4,5,38.6,6.6,74,3.87,10.3,12.9,260,119,338,female,primary surgical,complicated,appendicitis,appendicitis
+12.2929500342231,150,50.2,5,3,6,37.2,18.4,75.5,5.22,14.9,13.1,263,10,195,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.8767967145791,171,58,5,2,9,38.9,16.4,79.5,4.56,13.6,12.6,241,140,196,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.1793292265572,151,87,4,2,7,38.2,15.1,81,5.12,14,12.1,267,8,197,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.5790554414784,140,33,7,1,9,38.2,19.8,77,4.79,13.1,12.3,257,185,350,male,primary surgical,complicated,appendicitis,appendicitis
+0.53388090349076,176,63.1,3,3,4,37.5,14.5,77.3,5.18,14.5,11.8,232,1,198,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.498288843258,156,45,6,NA,NA,NA,15,NA,NA,NA,NA,NA,1.3,85,female,secondary surgical,complicated,appendicitis,appendicitis
+5.11156741957563,106,16,8,2,7,38.5,18,91.1,3.79,11.4,12.8,383,2,351,female,primary surgical,complicated,appendicitis,appendicitis
+15.1841204654346,170,47,8,4,5,39,9.6,88.1,4.66,13.5,13.5,267,235,354,male,primary surgical,uncomplicated,appendicitis,no appendicitis
+12.5503080082136,162,34,4,NA,NA,37.8,16,NA,NA,NA,NA,NA,12,199,male,primary surgical,uncomplicated,appendicitis,appendicitis
+17.284052019165,171,57,7,4,4,36.8,12.6,70.4,5.29,14.9,12.6,332,3,200,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.6228610540726,167,34,17,3,5,37.8,11.5,84.5,4.56,14.3,12.2,297,365,357,female,primary surgical,complicated,appendicitis,appendicitis
+13.19,NA,43.5,8,1,6,37.4,18.4,82,4.39,12.4,13.2,273,178,NA,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.23545516769336,146,43.5,4,3,6,38.2,20.7,85.8,NA,NA,NA,NA,10,201,male,primary surgical,uncomplicated,appendicitis,appendicitis
+17.0239561943874,165,51,5,4,3,37,10.9,NA,4.62,13,12.2,358,176,358,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.9192334017796,170,78,10,NA,NA,39.5,22.9,NA,NA,NA,NA,NA,355,359,female,primary surgical,complicated,appendicitis,appendicitis
+8.145106091718,128,26,8,8,4,37.2,9.4,62.9,4.93,13.2,14.4,372,14,202,male,primary surgical,uncomplicated,appendicitis,appendicitis
+5.07871321013005,114,23,7,4,6,38.5,22,NA,5.05,14.2,13.1,207,141,360,female,primary surgical,complicated,appendicitis,appendicitis
+12.1122518822724,146.3,44,7,NA,NA,38.4,19,NA,4.43,12.1,11.9,266,165,361,male,primary surgical,complicated,appendicitis,appendicitis
+9.1772758384668,139.5,32,5,1,5,37.8,15.4,77.2,4.91,13.4,13.1,208,33,203,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.1937029431896,164,57,5,4,7,37,15.4,89.4,5.04,13.9,13.1,206,2,204,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.3586584531143,168,53,14,3,7,38.3,13.5,NA,4.5,13.9,12.3,236,122,364,male,primary surgical,complicated,appendicitis,appendicitis
+12.6050650239562,165,50,7,5,4,38.2,6.6,68.4,4.73,13.5,13.3,99,115,365,female,primary surgical,complicated,appendicitis,appendicitis
+0,164,46,6,4,4,37.4,14.4,81.5,5.1,14.2,12.9,242,4,205,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.01368925393566,125.5,24,6,8,4,37,7.4,65.4,4.87,13.2,12.3,353,15,206,male,primary surgical,uncomplicated,appendicitis,appendicitis
+3.82751540041068,104,17,5,2,8,37,15.9,NA,4.53,11.9,13.6,320,32,207,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.5099247091034,151.5,50.2,8,3,6,38.2,14.2,82.3,4.61,12.8,13,336,88,367,male,primary surgical,complicated,appendicitis,appendicitis
+9.96,146.5,29,5,1,8,37,14.6,NA,4.64,13.8,12.1,273,16,NA,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+13.9383983572895,167,50,4,3,6,37.4,16.2,77.5,4.86,12.9,13.2,326,0,208,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.11978097193703,143,33.5,5,5,4,38,17.71,55,5.53,14.5,NA,305,19,130,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.7618069815195,148,33,4,6,4,37.5,6.5,72.8,4.74,13.2,12.6,169,8,131,male,primary surgical,uncomplicated,appendicitis,appendicitis
+16.2162902121834,169.5,72.5,9,1,6,37.8,16.6,86.4,4.32,13.5,12.3,298,12,252,female,primary surgical,complicated,appendicitis,appendicitis
+9.27583846680356,142.5,33,4,5,4,37,15.7,74.9,4.59,12.8,13,279,1,132,male,primary surgical,uncomplicated,appendicitis,appendicitis
+15.3237508555784,176,56,5,2,8,36.5,12.4,79,4.59,14,12.2,261,13,133,female,primary surgical,uncomplicated,appendicitis,appendicitis
+9.57973990417522,132,24.7,8,0,10,38.4,13.5,80.3,5.04,13.9,13.1,277,278,253,female,primary surgical,complicated,appendicitis,appendicitis
+16.7830253251198,162,54,9,5,6,37.3,6.2,71.8,4.95,12.6,13.8,232,46,254,male,primary surgical,complicated,appendicitis,appendicitis
+9.66461327857632,149,36,4,0,10,38,19.9,79,4.63,13.1,13.8,282,43,134,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.7926078028747,166,64,4,3,8,36.8,20.6,83.8,5.63,15.3,12.9,315,1,135,male,primary surgical,uncomplicated,appendicitis,appendicitis
+7.5482546201232,136,31,3,5,3,37.8,16.1,63.6,4.51,12.6,11.7,361,25,136,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.2067077344285,145.5,33,7,1,8,38.4,17,88.4,4.95,13.5,12.7,276,134,257,female,primary surgical,complicated,appendicitis,appendicitis
+7.17590691307324,122,20.4,7,0,10,39.3,23.1,79,4.48,12.6,12.2,310,234,258,male,primary surgical,complicated,appendicitis,appendicitis
+9.37166324435318,135.5,34.5,4,4,7,36.8,9.9,79.4,4.93,12.4,12.6,198,2,137,male,primary surgical,uncomplicated,appendicitis,appendicitis
+6.11362080766598,128,24,7,2,7,37.5,15.5,78.9,4.46,12.6,13.8,432,7,259,female,primary surgical,complicated,appendicitis,appendicitis
+0.0355920602327173,53,3.96,12,6,4,38.7,8.7,62.6,4.59,15.3,NA,440,198,260,male,primary surgical,complicated,appendicitis,appendicitis
+9.05407255304586,126.5,24.6,4,3,6,38.6,13.4,84.1,4.6,12.6,13.6,335,71,138,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.6475017111567,146.3,36.5,4,2,6,37,10.9,75.5,5.14,14.1,13.1,225,22,139,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.9650924024641,135,33,4,1,6,37.8,18.1,80.8,4.48,12.8,12.3,233,12,140,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.4106776180698,152,29.1,4,2,8,38.8,14.9,93.2,4.55,14.1,12.5,226,10,2,female,primary surgical,complicated,appendicitis,appendicitis
+9.76591375770021,141.2,34.6,7,1,6,37.2,30.5,79.2,5.11,14.6,13.8,366,102,141,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.9876796714579,173.5,57.2,7,2,9,37.2,16.1,81.9,4.46,12.3,13.5,264,1,142,female,primary surgical,uncomplicated,appendicitis,appendicitis
+4.47912388774812,105,16,5,4,5,37.6,18.7,NA,4.11,10.9,13.6,393,47,143,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.1492128678987,150,41.5,4,1,7,38.1,13.9,81.3,4.48,12.5,12.8,208,63,144,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.0239561943874,145.5,39,4,8,2,36.8,5.1,54.1,4.45,12.4,13.4,250,0,145,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.3093771389459,150,46,4,3,8,38.5,17.3,88,4.98,14.6,12.5,274,4,146,female,primary surgical,uncomplicated,appendicitis,appendicitis
+16.5092402464066,190,75,6,0,10,37.6,18.7,92.1,5.29,14.9,13.1,359,16,147,male,primary surgical,complicated,appendicitis,appendicitis
+16.8158795345654,164,50,5,4,5,37.6,10.7,71.7,5.23,14.7,12.7,253,14,148,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.3353867214237,138,37,6,3,6,38.8,23.7,88,4.8,13,14.5,356,63,273,male,primary surgical,complicated,appendicitis,appendicitis
+3.56741957563313,115,15,9,2,9,38.2,14.3,83.8,4.78,12.5,13,225,3,274,male,primary surgical,complicated,appendicitis,appendicitis
+15.8603696098563,167,57,7,2,8,38.6,21.9,85.4,5.44,16.2,12.5,210,1,149,male,primary surgical,uncomplicated,appendicitis,appendicitis
+13.09787816564,162,46.5,10,2,9,38.6,10.4,NA,3.8,10.6,12.9,161,133,275,female,primary surgical,complicated,appendicitis,appendicitis
+14.735112936345,175,68,5,1,7,39.2,29.9,81.7,5.47,15.8,12.8,346,236,150,male,primary surgical,complicated,appendicitis,appendicitis
+14.2094455852156,158,64,7,6,4,38.2,2.6,NA,4.96,11.2,14,134,29,151,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.362765229295,146.5,37,6,3,5,36.4,12.9,84.8,5.2,13.5,12.4,288,10,152,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.1984941820671,156.3,48.7,11,5,3,37.2,8.1,43.5,4.79,14,11.5,236,1,153,female,primary surgical,uncomplicated,appendicitis,appendicitis
+8.99931553730322,147,38.2,5,2,8,38.2,14,87.1,4.5,12.1,13.7,275,20,154,male,primary surgical,uncomplicated,appendicitis,appendicitis
+4.0848733744011,104.7,16,6,3,4,37.8,16.3,90.6,4.69,8.2,21.6,446,205,155,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.71663244353183,141,35,7,3,6,37.8,19.1,81,4.43,12.1,13.2,316,148,279,female,primary surgical,complicated,appendicitis,appendicitis
+15.3264887063655,167,57.5,4,1,8,37.8,16.4,76.2,5.57,16.4,12.6,223,16,156,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.89253935660507,139,33.4,4,1,8,37.7,16.7,84.1,4.54,12.8,13.2,276,15,157,female,primary surgical,uncomplicated,appendicitis,appendicitis
+10.5735797399042,130,30,8,3,6,38.3,3.5,83,4.85,13.5,12.3,268,26,281,female,primary surgical,complicated,appendicitis,appendicitis
+7.38398357289528,128,26.6,5,3,5,38.2,19.1,86.7,4.73,12.7,13.7,327,117,158,male,primary surgical,uncomplicated,appendicitis,appendicitis
+5.11156741957563,116,22,6,1,6,40.2,19.4,89.7,4.55,12.8,13,387,8,159,female,primary surgical,uncomplicated,appendicitis,appendicitis
+7.26351813826147,122.8,21,5,2,7,37.8,15.1,84,5,13.6,14.6,250,78,160,male,primary surgical,uncomplicated,appendicitis,appendicitis
+16.9308692676249,177,60,10,0,10,38.2,20.4,86.6,5.14,12.4,14,316,97,282,female,primary surgical,complicated,appendicitis,appendicitis
+11.9096509240246,137.5,30.2,6,2,5,37.5,25.7,90.2,4.73,13.3,12.3,414,0,161,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.8240930869268,158,42.4,5,6,6,37,6.4,NA,NA,NA,NA,NA,28,162,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.5544147843943,184,62,4,5,4,39.4,13.8,67.7,5.32,15.1,13.6,171,152,163,male,primary surgical,uncomplicated,appendicitis,appendicitis
+9.69199178644764,133,26,5,3,6,38.4,24,94.1,4.93,12.7,13.1,354,12,164,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.2532511978097,146,36,6,5,4,36.8,16.2,84.3,4.49,12.6,12.8,227,93,285,male,primary surgical,complicated,appendicitis,appendicitis
+11.958932238193,169,71,4,1,6,36.9,13.1,83.8,4.78,12.2,14.4,249,34,165,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.5242984257358,134,40,5,2,5,37.8,18.2,87.7,4.32,12.2,11.6,259,13,166,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.8720054757016,137.5,28,5,4,4,37.6,10.3,68.1,5.49,14.8,12.2,223,6,288,male,primary surgical,complicated,appendicitis,appendicitis
+14.1984941820671,162,55,28,1,6,37.2,17.1,84.6,3.62,10,14.2,443,27,289,female,primary surgical,complicated,appendicitis,appendicitis
+13.4729637234771,155,56,8,1,7,38.4,27.3,78.6,5.34,15.6,12.8,277,46,290,male,primary surgical,complicated,appendicitis,appendicitis
+15.8986995208761,159,48.5,6,4,7,37.2,7.6,64.4,4.65,13.8,12.5,361,0,167,female,primary surgical,uncomplicated,appendicitis,appendicitis
+11.8083504449008,156,50,5,4,4,37.4,13.6,76.5,5.02,13.8,13,292,5,168,female,primary surgical,uncomplicated,appendicitis,appendicitis
+2.13278576317591,90,12.5,7,7,3,39.8,25.2,67,4.23,11.7,12.5,380,57,295,female,primary surgical,complicated,appendicitis,appendicitis
+5.9192334017796,123,24.3,9,4,6,39,11.8,82.8,5.33,12.9,14.7,309,20,299,male,primary surgical,complicated,appendicitis,appendicitis
+12.145106091718,165.5,39.5,5,5,4,36.8,12.5,74.9,4.85,13.6,12.9,283,12,169,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.3839835728953,154,50,4,2,9,38.5,24.1,86,4.81,13.6,12.5,362,38,170,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.9514031485284,160,52,10,5,4,36.1,7.9,51.8,5.03,14.3,12.8,205,0,NA,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+12.829568788501,168,54,7,2,7,38.2,13.1,78.8,4.77,14.2,11.7,192,1,304,female,primary surgical,complicated,appendicitis,appendicitis
+17.5222450376454,155,76.5,3,6,5,37.3,8.4,53.5,4.69,13.4,13,341,7,171,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.2381930184805,150.5,39,4,4,4,37.2,15.3,82,5.25,13.9,13.2,208,35,172,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.5872689938398,156,69.2,7,6,3,36.5,7.8,50.7,4.61,13.4,12.6,284,13,173,female,primary surgical,uncomplicated,appendicitis,appendicitis
+5.01300479123888,103,15.8,5,7,3,37.3,13.1,68.4,4.27,11.5,12.6,259,90,174,male,primary surgical,uncomplicated,appendicitis,appendicitis
+12.4709103353867,142,31,5,1,6,37.9,12.2,77.2,5.16,14.6,12.1,247,0,175,female,primary surgical,uncomplicated,appendicitis,appendicitis
+14.97,NA,52,NA,5,4,NA,7.9,51.8,5.03,14.3,12.8,205,0,NA,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+11.0308008213552,151.5,56.5,10,4,4,37.8,11,80.2,4.85,13.7,12.9,263,26,176,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.9404517453799,138,30,4,3,5,36.8,16.1,85.5,4.8,14,13,340,2,177,male,primary surgical,uncomplicated,appendicitis,appendicitis
+8.75838466803559,131,34,4,3,5,36.9,20.3,87.7,4.69,12.9,11.9,236,4,103,male,primary surgical,uncomplicated,appendicitis,appendicitis
+10.8145106091718,138,34.5,5,2,5,37.5,15.9,78.4,4.6,12.9,12.2,320,77,104,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.1854893908282,157.5,61,6,4,5,38.5,18.5,84.5,5.07,13.5,12.6,347,21,105,male,primary surgical,uncomplicated,appendicitis,appendicitis
+6.48049281314168,120,17.5,8,4,4,36.8,16.9,78.4,4.73,13,12.3,278,21,106,male,primary surgical,uncomplicated,appendicitis,appendicitis
+5.12251882272416,114,20,7,3,5,37.5,18.8,85.9,4.41,12.4,12.5,346,12,209,male,primary surgical,complicated,appendicitis,appendicitis
+8.38056125941136,132.5,25.5,3,2,6,39.2,12.4,81.8,4.4,12,13.1,305,20,107,female,primary surgical,uncomplicated,appendicitis,appendicitis
+13.4866529774127,158,46,4,8,2,37.2,6.9,51,4.45,13.5,12,302,5,108,female,primary surgical,uncomplicated,appendicitis,appendicitis
+6.75975359342916,141.5,45,10,4,4,39,12,68.3,4.75,13.1,13.5,201,101,214,male,primary surgical,complicated,appendicitis,appendicitis
+14.6310746064339,161,47.8,8,3,6,39.1,12.6,80.1,4.25,13.3,12.1,208,31,215,female,primary surgical,uncomplicated,appendicitis,appendicitis
+11.4798083504449,144,39,9,6,3,38.6,4.4,NA,4.8,14,12.8,313,4,109,female,primary surgical,uncomplicated,appendicitis,appendicitis
+11.0116358658453,162.5,36.2,9,4,5,40,21.7,79,5.1,12.8,14,216,198,220,female,primary surgical,complicated,appendicitis,appendicitis
+10.1190965092402,140,30.2,8,1,9,39.8,13.8,79,4.56,12.9,12.2,246,203,221,male,primary surgical,complicated,appendicitis,appendicitis
+11.4989733059548,154,36.5,6,1,8,37.4,20,85.5,4.83,13.4,12.1,266,19,222,male,secondary surgical,complicated,appendicitis,appendicitis
+10.1711156741958,144.5,34,4,3,6,37,16.8,87.1,4.72,13,13.2,297,1,110,female,primary surgical,uncomplicated,appendicitis,appendicitis
+17.0540725530459,169,70,5,3,6,38,11.2,67.7,4.05,13.3,11.8,243,29,111,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.3121149897331,157.4,61,6,0,9,38,17.9,83.5,5.25,14.5,13.3,252,30,112,female,primary surgical,complicated,appendicitis,appendicitis
+8.63791923340178,136,39.5,5,1,8,39,15.8,77.9,5.37,14.2,14.2,350,62,113,male,primary surgical,uncomplicated,appendicitis,appendicitis
+13.3689253935661,NA,NA,3,NA,NA,NA,6.9,NA,NA,NA,NA,NA,1,11,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+7.564681724846,121.5,18.6,8,3,5,38.3,18.7,91.9,4.77,12.8,13.1,214,81,226,female,primary surgical,complicated,appendicitis,appendicitis
+17.7084188911704,180,69.9,4,2,6,37.9,18.7,84,5.37,15.6,12.2,342,6,114,male,primary surgical,uncomplicated,appendicitis,appendicitis
+16.8596851471595,180,77.7,4,1,7,38.1,17.2,78.7,5.36,16.6,12.5,208,54,115,male,primary surgical,uncomplicated,appendicitis,appendicitis
+13.8288843258042,160,61,5,4,4,37.5,12.9,70.3,4.61,13.3,13.3,241,4,116,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.6475017111567,162.3,47,5,4,5,38,14.6,74.9,4.58,12.8,13.6,251,7,117,female,primary surgical,complicated,appendicitis,appendicitis
+16.87,179,89,8,NA,NA,37.2,16.9,NA,5.45,16,13.1,360,NA,NA,female,primary surgical,complicated,Torsion der Adnexe,appendicitis
+10.0999315537303,152,44,5,2,8,37.6,13.8,86.6,4.39,12.6,12.9,361,3,118,female,primary surgical,uncomplicated,appendicitis,appendicitis
+12.29,144,49,5,NA,NA,37.2,7,29.5,5,14,13.1,276,1,NA,female,primary surgical,uncomplicated,"abdominelle Adhäsionen, chron. Unterbauchbeschwerden mit Subileussymptomatik",appendicitis
+10.7707049965777,150,49,7,1,9,37.8,22.5,83.5,5.49,14.9,13.4,260,181,231,male,primary surgical,complicated,appendicitis,appendicitis
+13.8316221765914,147,47,5,7,2,37.9,9.4,71.1,4.92,13.2,12.7,234,9,119,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.3983572895277,161.8,44.6,3,8,4,37.2,6.7,56.1,5.27,15.8,12.6,315,0,120,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+8.86242299794661,119,22.3,3,3,6,37,12.2,77.7,4.76,13.5,12.9,250,14,121,female,primary surgical,uncomplicated,appendicitis,appendicitis
+3.3264887063655,96.3,14.2,4,4,7,38.5,33.3,79.8,4.42,12.9,13.5,330,37,122,male,primary surgical,uncomplicated,appendicitis,appendicitis
+7.99,128,22.1,5,5,4,36.5,7,57.4,4.73,13.8,12.1,251,0,NA,female,primary surgical,uncomplicated,Adhäsionen des Colon ascendens,appendicitis
+12.041067761807,170.4,44.2,6,2,6,38.1,19.4,86,4.76,12.8,13.2,286,121,234,female,primary surgical,complicated,appendicitis,appendicitis
+10.99,148,42,4,2,6,37.5,18.5,76.6,5.51,15.3,13.3,222,1,24,male,secondary surgical,uncomplicated,appendicitis,appendicitis
+15.4414784394251,182,75.7,4,2,6,39,18.7,NA,5.4,15,12.7,275,130,123,male,primary surgical,complicated,appendicitis,appendicitis
+11.5482546201232,152,40.5,6,1,7,37.8,12.6,85.1,5.04,14.7,12.3,255,5,124,female,primary surgical,uncomplicated,appendicitis,appendicitis
+8.93908281998631,138.5,28.6,3,6,3,36.5,13.7,71,5.21,13.7,13.7,290,6,125,male,primary surgical,uncomplicated,appendicitis,appendicitis
+14.6036960985626,179.4,94.1,9,3,4,39.5,16.2,77.9,4.88,14.5,14,233,210,238,male,primary surgical,complicated,appendicitis,appendicitis
+7.10746064339494,121,25,5,3,6,38.2,16.5,80.8,4.77,13.3,12.8,367,23,239,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.1211498973306,144,42,8,5,4,38,23,NA,NA,NA,NA,NA,3.2,240,male,primary surgical,complicated,appendicitis,appendicitis
+15.07,158,47,4,5,7,37.2,8.6,83.8,4.54,14,12.2,176,0,NA,female,simultaneous appendectomy,uncomplicated,Bridenileus,no appendicitis
+3.7,103,13,NA,5,3,37.8,18.5,75,4.22,10.6,16.3,708,73,NA,male,primary surgical,uncomplicated,gedeckt perforierte Appendizitis,appendicitis
+7.88227241615332,130,31.6,7,3,6,38.2,22.7,90.5,5.05,13.5,12.3,457,44,244,male,primary surgical,complicated,appendicitis,appendicitis
+14.3518138261465,151,45,7,6,6,38,8.8,58.5,4.49,13.8,12.2,246,0,NA,female,secondary surgical,uncomplicated,appendicitis,appendicitis
+12.4134154688569,166.5,70,4,2,7,39.4,11.4,76.6,4.95,13.7,13.4,243,71,126,female,primary surgical,uncomplicated,appendicitis,appendicitis
+17.0924024640657,158,51,6,5,3,37.8,17.4,89.2,4.52,13.1,12.8,310,245,NA,female,secondary surgical,complicated,appendicitis,appendicitis
+14.9924709103354,152,46,4,5,3,37.3,14.6,68.5,4.49,12.7,12.8,328,2,127,female,primary surgical,uncomplicated,appendicitis,appendicitis
+7.19507186858316,129.3,23.9,5,1,8,37.5,17.8,77,4.97,14.3,12.7,345,8,128,male,primary surgical,uncomplicated,appendicitis,appendicitis
+11.5099247091034,146.5,39,4,8,2,36.8,9.3,70,4.64,13.2,12.7,291,1,129,male,primary surgical,uncomplicated,appendicitis,appendicitis
