@@ -1,4 +1,4 @@
-Geography,Geographic Area Name,Estimate!!Total!!Population for whom poverty status is determined,Estimate!!Total!!Population for whom poverty status is determined!!AGE!!Under 18 years,Estimate!!Percent below poverty level!!Population for whom poverty status is determined,Estimate!!Percent below poverty level!!Population for whom poverty status is determined!!AGE!!Under 18 years,Estimate!!Percent below poverty level!!Population for whom poverty status is determined!!AGE!!65 years and over,Estimate!!Percent below poverty level!!Population for whom poverty status is determined!!SEX!!Male,Estimate!!Percent below poverty level!!Population for whom poverty status is determined!!SEX!!Female
+AFFGEOID,County Name,Total Pop,Total Pop Under 18,Pct_Below_Poverty,Pct_Below_Poverty_U18,Pct_Below_Poverty_65Over,Pct_Below_Poverty_Male,Pct_Below_Poverty_Female
 0500000US01003,"Baldwin County, Alabama",241525,49558,13.4,17.8,7.1,13.7,13.1
 0500000US01015,"Calhoun County, Alabama",111451,24233,18.3,28,10.6,13.8,22.8
 0500000US01043,"Cullman County, Alabama",89595,20051,17.9,20.9,11.8,15.5,20.3
