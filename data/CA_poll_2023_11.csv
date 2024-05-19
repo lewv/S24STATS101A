@@ -131,7 +131,7 @@ BIDEN,WHITE,LIBERAL,GENDER,DEMOCRAT,REPUBLICAN,PARTY_ID,EDUCATION,BIRTHPLACE,OWN
 0,NO,NO,Female,Not Democrat,Yes Republican,Republican,16yrs,NOT USA,OWN RESIDENCE,"$40,000-$59,999",73
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,OWN RESIDENCE,"$200,000 or more",76
 1,NO,NO,Female,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",43
-NA,YES,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",77
+0,YES,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",77
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",61
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,DO NOT OWN,"$200,000 or more",29
 0,NO,YES,Male,Yes Democrat,Not Republican,Democrat,17+yrs,NOT USA,DO NOT OWN,"$200,000 or more",56
@@ -863,7 +863,7 @@ NA,YES,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,USA,OWN RESIDENCE,"
 1,NO,NO,Female,Not Democrat,Not Republican,Other,16yrs,USA,DO NOT OWN,"$60,000-$99,999",27
 1,NO,NO,Male,Yes Democrat,Not Republican,Democrat,12yrs,NOT USA,DO NOT OWN,"$200,000 or more",41
 1,NO,NO,Male,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"$200,000 or more",43
-NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"$40,000-$59,999",68
+0,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"$40,000-$59,999",68
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs,NOT USA,OWN RESIDENCE,"$100,000-$149,999",74
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"$100,000-$149,999",18
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,DO NOT OWN,"$150,000-$199,999",28
@@ -1590,7 +1590,7 @@ NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESID
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,OWN RESIDENCE,"$20,000-$39,999",24
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,OWN RESIDENCE,"$200,000 or more",64
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,OWN RESIDENCE,"$200,000 or more",81
-NA,YES,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",38
+0,YES,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",38
 1,NO,YES,Male,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"Less than $20,000",60
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"$60,000-$99,999",23
 1,YES,NO,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$100,000-$149,999",75
@@ -1705,7 +1705,7 @@ NA,YES,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,DO NOT OWN,"$100,
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$60,000-$99,999",82
 0,YES,NO,Female,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,OWN RESIDENCE,"$100,000-$149,999",31
 0,NO,YES,Male,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"$60,000-$99,999",24
-NA,YES,NO,Female,Not Democrat,Yes Republican,Republican,12yrs,USA,OWN RESIDENCE,"$150,000-$199,999",70
+0,YES,NO,Female,Not Democrat,Yes Republican,Republican,12yrs,USA,OWN RESIDENCE,"$150,000-$199,999",70
 0,YES,YES,Male,Yes Democrat,Not Republican,Democrat,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",38
 1,NO,NO,Male,Not Democrat,Not Republican,Other,16yrs,USA,DO NOT OWN,"$60,000-$99,999",26
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,OWN RESIDENCE,"$100,000-$149,999",36
@@ -2113,7 +2113,7 @@ NA,YES,NO,Female,Not Democrat,Yes Republican,Republican,12yrs,USA,OWN RESIDENCE,
 0,NO,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,DO NOT OWN,"$60,000-$99,999",25
 0,YES,NO,Male,Not Democrat,Not Republican,Other,16yrs,USA,OWN RESIDENCE,"Less than $20,000",42
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"$20,000-$39,999",22
-NA,YES,NO,Female,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$60,000-$99,999",92
+0,YES,NO,Female,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$60,000-$99,999",92
 1,YES,YES,Male,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",45
 0,NO,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,NOT USA,NA,"Less than $20,000",62
 1,NO,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",44
@@ -3164,7 +3164,7 @@ NA,YES,NO,Female,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$6
 1,YES,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",73
 0,NO,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$200,000 or more",36
 1,NO,YES,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,NOT USA,DO NOT OWN,"$60,000-$99,999",23
-NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$100,000-$149,999",73
+0,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$100,000-$149,999",73
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",53
 0,YES,NO,Male,Not Democrat,Not Republican,Other,12yrs-15yrs,USA,OWN RESIDENCE,"$100,000-$149,999",53
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"$60,000-$99,999",68
@@ -3408,7 +3408,7 @@ NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",37
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs,USA,OWN RESIDENCE,"$40,000-$59,999",71
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$150,000-$199,999",90
-NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"Less than $20,000",79
+0,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"Less than $20,000",79
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",31
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,OWN RESIDENCE,"$100,000-$149,999",71
 1,YES,NO,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"$200,000 or more",74
@@ -4378,7 +4378,7 @@ NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESID
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"$40,000-$59,999",63
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$100,000-$149,999",28
 0,NO,NO,Female,Yes Democrat,Not Republican,Democrat,0-12yrs,USA,DO NOT OWN,"Less than $20,000",19
-NA,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,DO NOT OWN,"$60,000-$99,999",40
+0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,DO NOT OWN,"$60,000-$99,999",40
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"$150,000-$199,999",48
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"$150,000-$199,999",22
 1,YES,YES,Male,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$20,000-$39,999",77
@@ -4798,7 +4798,7 @@ NA,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs-15yrs,USA,DO NOT OWN
 0,YES,NO,Male,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",42
 1,YES,YES,Male,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",34
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,OWN RESIDENCE,"$40,000-$59,999",66
-NA,NO,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",41
+0,NO,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",41
 1,YES,YES,Male,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$150,000-$199,999",39
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",49
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$60,000-$99,999",65
@@ -4843,7 +4843,7 @@ NA,NO,YES,Female,Not Democrat,Not Republican,Other,17+yrs,USA,OWN RESIDENCE,"$20
 1,NO,NO,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"$40,000-$59,999",70
 0,NO,NO,Female,Not Democrat,Not Republican,Other,12yrs,USA,DO NOT OWN,"$20,000-$39,999",28
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,12yrs,USA,DO NOT OWN,"$60,000-$99,999",41
-NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",72
+0,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,"$200,000 or more",72
 1,YES,NO,Female,Not Democrat,Not Republican,Other,12yrs-15yrs,USA,DO NOT OWN,"Less than $20,000",20
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,DO NOT OWN,"$100,000-$149,999",35
 1,NO,YES,Male,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$200,000 or more",47
@@ -5792,7 +5792,7 @@ NA,YES,YES,Female,Yes Democrat,Not Republican,Democrat,17+yrs,USA,OWN RESIDENCE,
 1,YES,YES,Female,Yes Democrat,Not Republican,Democrat,16yrs,USA,OWN RESIDENCE,"$60,000-$99,999",72
 0,YES,NO,Male,Not Democrat,Yes Republican,Republican,17+yrs,USA,DO NOT OWN,"$100,000-$149,999",37
 0,NO,NO,Male,Not Democrat,Not Republican,Other,16yrs,USA,DO NOT OWN,"$20,000-$39,999",25
-NA,NO,NO,Male,Yes Democrat,Not Republican,Democrat,0-12yrs,NA,NA,"Less than $20,000",36
+0,NO,NO,Male,Yes Democrat,Not Republican,Democrat,0-12yrs,NA,NA,"Less than $20,000",36
 0,YES,NO,Male,Not Democrat,Not Republican,Other,16yrs,USA,DO NOT OWN,"$60,000-$99,999",26
 0,NO,NO,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,DO NOT OWN,"Less than $20,000",20
 1,YES,YES,Male,Not Democrat,Not Republican,Other,16yrs,NOT USA,OWN RESIDENCE,"$60,000-$99,999",55
@@ -6195,7 +6195,7 @@ NA,NO,NO,Male,Yes Democrat,Not Republican,Democrat,0-12yrs,NA,NA,"Less than $20,
 0,NO,NO,Female,Yes Democrat,Not Republican,Democrat,0-12yrs,NOT USA,OWN RESIDENCE,"$60,000-$99,999",59
 1,NO,NO,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,NOT USA,DO NOT OWN,"Less than $20,000",45
 1,NO,NO,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,NOT USA,DO NOT OWN,"Less than $20,000",62
-NA,NO,NO,Female,Yes Democrat,Not Republican,Democrat,0-12yrs,NOT USA,DO NOT OWN,"$20,000-$39,999",67
+0,NO,NO,Female,Yes Democrat,Not Republican,Democrat,0-12yrs,NOT USA,DO NOT OWN,"$20,000-$39,999",67
 1,NO,YES,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,NOT USA,DO NOT OWN,"$40,000-$59,999",47
 1,NO,YES,Male,Yes Democrat,Not Republican,Democrat,16yrs,NOT USA,OWN RESIDENCE,"$60,000-$99,999",63
 1,NO,YES,Female,Not Democrat,Not Republican,Other,16yrs,NOT USA,OWN RESIDENCE,"$20,000-$39,999",42
@@ -6244,7 +6244,7 @@ NA,NO,NO,Female,Yes Democrat,Not Republican,Democrat,0-12yrs,NOT USA,DO NOT OWN,
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,NOT USA,DO NOT OWN,"$40,000-$59,999",60
 1,NO,YES,Female,Yes Democrat,Not Republican,Democrat,12yrs,USA,DO NOT OWN,"$20,000-$39,999",24
 1,NO,NO,Female,Yes Democrat,Not Republican,Democrat,16yrs,NOT USA,DO NOT OWN,"Less than $20,000",50
-NA,NO,NO,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,NA,"Less than $20,000",67
+0,NO,NO,Male,Yes Democrat,Not Republican,Democrat,12yrs-15yrs,USA,NA,"Less than $20,000",67
 0,NO,NO,Male,Not Democrat,Not Republican,Other,12yrs,NOT USA,DO NOT OWN,"Less than $20,000",52
 0,NO,NO,Male,Not Democrat,Yes Republican,Republican,16yrs,USA,DO NOT OWN,"$20,000-$39,999",20
 1,NO,NO,Female,Yes Democrat,Not Republican,Democrat,12yrs,NOT USA,DO NOT OWN,"$20,000-$39,999",41
